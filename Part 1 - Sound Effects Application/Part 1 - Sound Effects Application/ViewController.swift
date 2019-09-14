@@ -21,7 +21,7 @@ class ViewController: UIViewController {
     
     @IBAction func soundPressed(_ sender: UIButton) {
         // List of sound file names
-        let soundList = ["Sound0", "Sound1", "Sound2"]
+        let soundList = ["Sound0", "Sound1", "Sound2", "Sound3", "Sound4", "Sound5", "Sound6","Sound7","Sound8"]
         var soundName = ""
         // Checks to ensure the tag number is within the bounds of the array
         if sender.tag < soundList.count && sender.tag >= 0 {
