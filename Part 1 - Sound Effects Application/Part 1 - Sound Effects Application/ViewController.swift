@@ -12,7 +12,10 @@ import AVFoundation
 class ViewController: UIViewController {
 
     var audioPlayer : AVAudioPlayer?
+    var labelName:String = ""
     
+    @IBAction func landAnimalOn(_ sender: UIButton) {
+    }
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
@@ -28,7 +31,30 @@ class ViewController: UIViewController {
             soundName = soundList[sender.tag]
         }
         
+        //Toogle sound on/off
+        if sender.tag == 27{
+//                sender.setTitle("\(labelName) is playing.", for: .normal)
+            if audioPlayer != nil{
+            if audioPlayer?.isPlaying == true{
+                print("Paused")
+                //audioPlayer?.isPlaying = false
+                audioPlayer?.pause()
+                sender.setTitle("\(labelName) is paused.", for: .normal)
+                
+                //audioPlayer?.stop()
+            }else {//audioPlayer!.isPlaying == false{
+                print("Resumed")
+                audioPlayer?.play()
+                sender.setTitle("\(labelName) is playing.", for: .normal) //= "\(labelName) is playing."
+            }
+            }
+        }
         
+        if sender.tag != 27{
+            print(sender.titleLabel!.text!)
+            labelName = sender.titleLabel!.text!
+            var button = self.view.viewWithTag(27) as! UIButton
+            button.setTitle("\(labelName) is playing.", for: .normal)
         // Gets the sound resource
         if let soundResource = Bundle.main.url(forResource: soundName, withExtension: "wav") {
             do {
@@ -37,10 +63,25 @@ class ViewController: UIViewController {
                 
                 // Plays the sound file
                 audioPlayer?.play()
+                print("Paused2")
+                //Toggle pause/resume
+//                if sender.tag == 27{
+//                    if audioPlayer?.isPlaying == true{
+//                        print("Paused")
+//                        //audioPlayer?.isPlaying = false
+//                        audioPlayer?.pause()
+//                        //audioPlayer?.stop()
+//                    }else {//audioPlayer!.isPlaying == false{
+//                        print("Resumed")
+//                        audioPlayer?.play()
+//                    }
+//
+//                }
             } catch  {
                 // Catches any errors that might occur while putting the CD in the CD player
                 print(error)
             }
+        }
         }
     }
 }
