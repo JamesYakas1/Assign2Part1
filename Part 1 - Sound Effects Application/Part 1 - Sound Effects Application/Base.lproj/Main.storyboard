@@ -284,6 +284,21 @@
                                     <action selector="soundPressed:" destination="P9v-hM-Qxa" eventType="touchUpInside" id="m6C-Op-lkm"/>
                                 </connections>
                             </button>
+                            <button opaque="NO" tag="27" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="r9U-78-9Is">
+                                <rect key="frame" x="92" y="574" width="210" height="30"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <state key="normal" title="On/Off"/>
+                                <connections>
+                                    <action selector="soundPressed:" destination="P9v-hM-Qxa" eventType="touchUpInside" id="Gz2-uD-8k4"/>
+                                </connections>
+                            </button>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Toggle" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="9Bx-Xa-90N">
+                                <rect key="frame" x="169" y="535" width="54" height="21"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" name="HelveticaNeue-Bold" family="Helvetica Neue" pointSize="17"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
                         </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                         <viewLayoutGuide key="safeArea" id="3uX-Ua-E5I"/>
@@ -291,7 +306,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="9bR-Fr-G2Z" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="483" y="1866"/>
+            <point key="canvasLocation" x="482.60869565217394" y="1865.625"/>
         </scene>
         <!--View Controller-->
         <scene sceneID="7fu-e9-FHE">
@@ -332,6 +347,21 @@
                                     <action selector="soundPressed:" destination="dDn-of-m3A" eventType="touchUpInside" id="DGq-9u-u2K"/>
                                 </connections>
                             </button>
+                            <button opaque="NO" tag="27" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="kMb-pb-jjB">
+                                <rect key="frame" x="124" y="599" width="182" height="30"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <state key="normal" title="On/Off"/>
+                                <connections>
+                                    <action selector="soundPressed:" destination="dDn-of-m3A" eventType="touchUpInside" id="JJb-0j-MbX"/>
+                                </connections>
+                            </button>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Toggle" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="UQG-8n-J5N">
+                                <rect key="frame" x="187" y="560" width="54" height="21"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" name="HelveticaNeue-Bold" family="Helvetica Neue" pointSize="17"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
                         </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                         <viewLayoutGuide key="safeArea" id="5FY-yC-Vsx"/>
@@ -339,7 +369,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="aHq-53-Vek" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="1245" y="1859"/>
+            <point key="canvasLocation" x="1244.9275362318842" y="1858.9285714285713"/>
         </scene>
         <!--View Controller-->
         <scene sceneID="kIQ-qp-CRx">
