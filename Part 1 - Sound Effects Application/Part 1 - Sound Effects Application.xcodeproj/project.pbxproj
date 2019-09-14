@@ -96,8 +96,7 @@
 				CE808445232CB40B0098C561 /* Sound7.wav */,
 				CE80843E232CB40B0098C561 /* Sound8.wav */,
 			);
-			name = Sounds;
-			path = ../../../../../Downloads/Sounds;
+			path = Sounds;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
