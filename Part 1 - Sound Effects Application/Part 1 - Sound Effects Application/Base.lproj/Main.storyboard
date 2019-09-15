@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="14490.70" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="3WQ-Iw-fdT">
-    <device id="retina4_0" orientation="portrait">
+    <device id="retina5_9" orientation="portrait">
         <adaptation id="fullscreen"/>
     </device>
     <dependencies>
@@ -15,7 +15,7 @@
             <objects>
                 <viewController id="BYZ-38-t0r" customClass="ViewController" customModule="Part_1___Sound_Effects_Application" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="8bC-Xf-vdC">
-                        <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="812"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Home" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="kyA-U8-UQS">
@@ -55,7 +55,7 @@
             <objects>
                 <viewController id="PxV-b9-gJM" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="09F-qL-gE6">
-                        <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="812"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Animals" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="E1A-me-dol">
@@ -104,7 +104,7 @@
             <objects>
                 <viewController id="mJA-o4-dyg" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="fwy-rR-mNg">
-                        <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="812"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Vehicles" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Yqe-Qq-Kup">
@@ -153,18 +153,18 @@
             <objects>
                 <viewController id="gzh-gi-EOF" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="IBZ-Ld-LjW">
-                        <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="812"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Nature" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="g6L-Xx-9cr">
-                                <rect key="frame" x="179" y="192" width="52" height="21"/>
+                                <rect key="frame" x="181" y="109" width="52" height="21"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="lEu-Bb-MqO">
-                                <rect key="frame" x="187" y="286" width="41" height="30"/>
+                                <rect key="frame" x="190" y="156" width="41" height="30"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <state key="normal" title="Water"/>
                                 <connections>
@@ -172,7 +172,7 @@
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="ce9-Jy-TqG">
-                                <rect key="frame" x="190" y="390" width="37" height="30"/>
+                                <rect key="frame" x="195" y="201" width="37" height="30"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <state key="normal" title="Earth"/>
                                 <connections>
@@ -180,7 +180,7 @@
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="PHE-kV-2Sg">
-                                <rect key="frame" x="198" y="473" width="30" height="30"/>
+                                <rect key="frame" x="195" y="248" width="30" height="30"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <state key="normal" title="Sky"/>
                                 <connections>
@@ -202,57 +202,127 @@
             <objects>
                 <viewController id="X86-Iu-F74" customClass="ViewController" customModule="Part_1___Sound_Effects_Application" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="W2N-va-BY0">
-                        <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="812"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Sky" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="XLj-bG-OUi">
-                                <rect key="frame" x="158" y="174" width="29" height="21"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
-                                <nil key="textColor"/>
-                                <nil key="highlightedColor"/>
-                            </label>
-                            <button opaque="NO" tag="6" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="PHy-ic-U55">
-                                <rect key="frame" x="177" y="253" width="51" height="30"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <state key="normal" title="Seagull"/>
-                                <connections>
-                                    <action selector="soundPressed:" destination="X86-Iu-F74" eventType="touchUpInside" id="J2F-YF-cpP"/>
-                                </connections>
-                            </button>
-                            <button opaque="NO" tag="7" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="xn2-uv-7tY">
-                                <rect key="frame" x="181" y="349" width="42" height="30"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <state key="normal" title="Parrot"/>
-                                <connections>
-                                    <action selector="soundPressed:" destination="X86-Iu-F74" eventType="touchUpInside" id="chF-Ug-rts"/>
-                                </connections>
-                            </button>
-                            <button opaque="NO" tag="8" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="ycs-mJ-f47">
-                                <rect key="frame" x="183" y="453" width="38" height="30"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <state key="normal" title="Eagle"/>
-                                <connections>
-                                    <action selector="soundPressed:" destination="X86-Iu-F74" eventType="touchUpInside" id="43b-QO-Vnm"/>
-                                </connections>
-                            </button>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Toggle" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Scf-FV-Afx">
-                                <rect key="frame" x="174" y="524" width="54" height="21"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" spacing="10" translatesAutoresizingMaskIntoConstraints="NO" id="V9x-vA-4RD">
+                                <rect key="frame" x="140" y="291" width="95" height="230"/>
+                                <subviews>
+                                    <button opaque="NO" tag="6" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="PHy-ic-U55">
+                                        <rect key="frame" x="0.0" y="0.0" width="95" height="70"/>
+                                        <constraints>
+                                            <constraint firstAttribute="height" constant="55" id="rzw-It-Sv6">
+                                                <variation key="heightClass=compact-widthClass=compact" constant="45"/>
+                                                <variation key="heightClass=regular-widthClass=compact" constant="70"/>
+                                                <variation key="heightClass=regular-widthClass=regular" constant="110"/>
+                                            </constraint>
+                                        </constraints>
+                                        <state key="normal" title="Seagull" backgroundImage="Seagull">
+                                            <color key="titleColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                        </state>
+                                        <connections>
+                                            <action selector="soundPressed:" destination="X86-Iu-F74" eventType="touchUpInside" id="J2F-YF-cpP"/>
+                                        </connections>
+                                    </button>
+                                    <button opaque="NO" tag="8" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="ycs-mJ-f47">
+                                        <rect key="frame" x="0.0" y="80" width="95" height="70"/>
+                                        <constraints>
+                                            <constraint firstAttribute="height" constant="55" id="lHr-8Y-STL">
+                                                <variation key="heightClass=compact-widthClass=compact" constant="45"/>
+                                                <variation key="heightClass=regular-widthClass=compact" constant="70"/>
+                                                <variation key="heightClass=regular-widthClass=regular" constant="110"/>
+                                            </constraint>
+                                        </constraints>
+                                        <state key="normal" title="Eagle" backgroundImage="Eagle">
+                                            <color key="titleColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                        </state>
+                                        <connections>
+                                            <action selector="soundPressed:" destination="X86-Iu-F74" eventType="touchUpInside" id="43b-QO-Vnm"/>
+                                        </connections>
+                                    </button>
+                                    <button opaque="NO" tag="7" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="xn2-uv-7tY">
+                                        <rect key="frame" x="0.0" y="160" width="95" height="70"/>
+                                        <constraints>
+                                            <constraint firstAttribute="height" constant="55" id="iru-a7-YrY">
+                                                <variation key="heightClass=compact-widthClass=compact" constant="45"/>
+                                                <variation key="heightClass=regular-widthClass=compact" constant="70"/>
+                                                <variation key="heightClass=regular-widthClass=regular" constant="110"/>
+                                            </constraint>
+                                        </constraints>
+                                        <state key="normal" title="Parrot" backgroundImage="Parrot">
+                                            <color key="titleColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                        </state>
+                                        <connections>
+                                            <action selector="soundPressed:" destination="X86-Iu-F74" eventType="touchUpInside" id="chF-Ug-rts"/>
+                                        </connections>
+                                    </button>
+                                </subviews>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="75" id="QD6-AQ-mI9">
+                                        <variation key="heightClass=compact-widthClass=compact" constant="61"/>
+                                        <variation key="heightClass=regular-widthClass=compact" constant="95"/>
+                                        <variation key="heightClass=regular-widthClass=regular" constant="150"/>
+                                    </constraint>
+                                </constraints>
+                                <variation key="heightClass=compact-widthClass=compact" spacing="1"/>
+                                <variation key="heightClass=compact-widthClass=regular" spacing="1"/>
+                                <variation key="heightClass=regular-widthClass=compact" spacing="10"/>
+                            </stackView>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Toggle" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Scf-FV-Afx">
+                                <rect key="frame" x="160.66666666666666" y="536" width="54" height="20.333333333333371"/>
                                 <fontDescription key="fontDescription" name="HelveticaNeue-Bold" family="Helvetica Neue" pointSize="17"/>
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
-                            <button opaque="NO" tag="27" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="9ef-Lj-rmx">
-                                <rect key="frame" x="158" y="574" width="105" height="30"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <button opaque="NO" tag="27" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="9ef-Lj-rmx">
+                                <rect key="frame" x="164" y="561.33333333333337" width="47" height="30"/>
                                 <state key="normal" title="On/Off"/>
                                 <connections>
                                     <action selector="soundPressed:" destination="X86-Iu-F74" eventType="touchUpInside" id="vTu-Po-oQy"/>
                                 </connections>
                             </button>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Flying Animals" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="XLj-bG-OUi">
+                                <rect key="frame" x="34.666666666666657" y="98" width="306" height="183"/>
+                                <fontDescription key="fontDescription" name="Palatino-Roman" family="Palatino" pointSize="45"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                                <variation key="heightClass=compact-widthClass=compact">
+                                    <fontDescription key="fontDescription" name="Palatino-Roman" family="Palatino" pointSize="29"/>
+                                </variation>
+                                <variation key="heightClass=compact-widthClass=regular">
+                                    <fontDescription key="fontDescription" name="Palatino-Roman" family="Palatino" pointSize="38"/>
+                                </variation>
+                                <variation key="heightClass=regular-widthClass=regular">
+                                    <fontDescription key="fontDescription" name="Palatino-Roman" family="Palatino" pointSize="70"/>
+                                </variation>
+                            </label>
                         </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <constraints>
+                            <constraint firstItem="9ef-Lj-rmx" firstAttribute="top" secondItem="Scf-FV-Afx" secondAttribute="bottom" constant="15" id="4RT-8Z-CMh">
+                                <variation key="heightClass=compact-widthClass=compact" constant="4"/>
+                                <variation key="heightClass=compact-widthClass=regular" constant="5"/>
+                                <variation key="heightClass=regular-widthClass=compact" constant="5"/>
+                                <variation key="heightClass=regular-widthClass=regular" constant="30"/>
+                            </constraint>
+                            <constraint firstItem="XLj-bG-OUi" firstAttribute="centerX" secondItem="W2N-va-BY0" secondAttribute="centerX" id="5Sv-Lo-ITk"/>
+                            <constraint firstItem="9ef-Lj-rmx" firstAttribute="centerX" secondItem="W2N-va-BY0" secondAttribute="centerX" id="5U7-aP-APw"/>
+                            <constraint firstItem="Scf-FV-Afx" firstAttribute="centerX" secondItem="W2N-va-BY0" secondAttribute="centerX" id="Jib-pw-X7I"/>
+                            <constraint firstItem="Scf-FV-Afx" firstAttribute="top" secondItem="V9x-vA-4RD" secondAttribute="bottom" constant="30" id="a9z-1f-fkc">
+                                <variation key="heightClass=compact-widthClass=compact" constant="5"/>
+                                <variation key="heightClass=compact-widthClass=regular" constant="10"/>
+                                <variation key="heightClass=regular-widthClass=compact" constant="15"/>
+                                <variation key="heightClass=regular-widthClass=regular" constant="40"/>
+                            </constraint>
+                            <constraint firstItem="V9x-vA-4RD" firstAttribute="centerY" secondItem="W2N-va-BY0" secondAttribute="centerY" id="ccl-ue-3iJ">
+                                <variation key="heightClass=compact-widthClass=regular" constant="-20"/>
+                            </constraint>
+                            <constraint firstItem="V9x-vA-4RD" firstAttribute="top" secondItem="XLj-bG-OUi" secondAttribute="bottom" constant="10" id="eS0-Rc-M9Y"/>
+                            <constraint firstItem="XLj-bG-OUi" firstAttribute="top" secondItem="xXj-zP-R2Y" secondAttribute="top" constant="10" id="obD-7g-BL1">
+                                <variation key="heightClass=compact-widthClass=regular" constant="0.0"/>
+                            </constraint>
+                            <constraint firstItem="V9x-vA-4RD" firstAttribute="centerX" secondItem="W2N-va-BY0" secondAttribute="centerX" id="r35-zW-rc1"/>
+                        </constraints>
                         <viewLayoutGuide key="safeArea" id="xXj-zP-R2Y"/>
                     </view>
                 </viewController>
@@ -265,57 +335,130 @@
             <objects>
                 <viewController id="P9v-hM-Qxa" customClass="ViewController" customModule="Part_1___Sound_Effects_Application" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="mh1-pl-IYC">
-                        <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="812"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Sea" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Om6-QO-s5q">
-                                <rect key="frame" x="149" y="183" width="29" height="21"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Aquatic Animals" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Om6-QO-s5q">
+                                <rect key="frame" x="30.666666666666657" y="98" width="313.66666666666674" height="183"/>
+                                <fontDescription key="fontDescription" name="Palatino-Roman" family="Palatino" pointSize="42"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                                <variation key="heightClass=compact-widthClass=compact">
+                                    <fontDescription key="fontDescription" name="Palatino-Roman" family="Palatino" pointSize="29"/>
+                                </variation>
+                                <variation key="heightClass=compact-widthClass=regular">
+                                    <fontDescription key="fontDescription" name="Palatino-Roman" family="Palatino" pointSize="38"/>
+                                </variation>
+                                <variation key="heightClass=regular-widthClass=regular">
+                                    <fontDescription key="fontDescription" name="Palatino-Roman" family="Palatino" pointSize="70"/>
+                                </variation>
+                            </label>
+                            <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" spacing="10" translatesAutoresizingMaskIntoConstraints="NO" id="AV3-TQ-S4f">
+                                <rect key="frame" x="140" y="291" width="95" height="230"/>
+                                <subviews>
+                                    <button opaque="NO" tag="3" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="iuc-PX-UiY">
+                                        <rect key="frame" x="0.0" y="0.0" width="95" height="70"/>
+                                        <constraints>
+                                            <constraint firstAttribute="height" constant="55" id="K5C-KR-cql">
+                                                <variation key="heightClass=compact-widthClass=compact" constant="45"/>
+                                                <variation key="heightClass=regular-widthClass=compact" constant="70"/>
+                                                <variation key="heightClass=regular-widthClass=regular" constant="110"/>
+                                            </constraint>
+                                        </constraints>
+                                        <state key="normal" title="Whale" backgroundImage="Whale">
+                                            <color key="titleColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                        </state>
+                                        <connections>
+                                            <action selector="soundPressed:" destination="P9v-hM-Qxa" eventType="touchUpInside" id="G4S-tE-hAx"/>
+                                        </connections>
+                                    </button>
+                                    <button opaque="NO" tag="4" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="pzC-3j-p80">
+                                        <rect key="frame" x="0.0" y="80" width="95" height="70"/>
+                                        <constraints>
+                                            <constraint firstAttribute="height" constant="55" id="tjS-oF-eQd">
+                                                <variation key="heightClass=compact-widthClass=compact" constant="45"/>
+                                                <variation key="heightClass=regular-widthClass=compact" constant="70"/>
+                                                <variation key="heightClass=regular-widthClass=regular" constant="110"/>
+                                            </constraint>
+                                        </constraints>
+                                        <state key="normal" title="Sea lions" backgroundImage="Sealion">
+                                            <color key="titleColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                        </state>
+                                        <connections>
+                                            <action selector="soundPressed:" destination="P9v-hM-Qxa" eventType="touchUpInside" id="2gl-rX-IoT"/>
+                                        </connections>
+                                    </button>
+                                    <button opaque="NO" tag="5" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="zUW-XD-j0v" userLabel="Hippopotamus">
+                                        <rect key="frame" x="0.0" y="160" width="95" height="70"/>
+                                        <constraints>
+                                            <constraint firstAttribute="height" constant="55" id="sze-VE-P0i">
+                                                <variation key="heightClass=compact-widthClass=compact" constant="45"/>
+                                                <variation key="heightClass=regular-widthClass=compact" constant="70"/>
+                                                <variation key="heightClass=regular-widthClass=regular" constant="110"/>
+                                            </constraint>
+                                        </constraints>
+                                        <state key="normal" title="hippopotamus" backgroundImage="Hippopotamus">
+                                            <color key="titleColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                        </state>
+                                        <connections>
+                                            <action selector="soundPressed:" destination="P9v-hM-Qxa" eventType="touchUpInside" id="m6C-Op-lkm"/>
+                                        </connections>
+                                    </button>
+                                </subviews>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="75" id="3yr-IC-26A">
+                                        <variation key="heightClass=compact-widthClass=compact" constant="61"/>
+                                        <variation key="heightClass=regular-widthClass=compact" constant="95"/>
+                                        <variation key="heightClass=regular-widthClass=regular" constant="150"/>
+                                    </constraint>
+                                </constraints>
+                                <variation key="heightClass=compact-widthClass=compact" spacing="1"/>
+                                <variation key="heightClass=compact-widthClass=regular" spacing="1"/>
+                                <variation key="heightClass=regular-widthClass=compact" spacing="10"/>
+                            </stackView>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Toggle" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="9Bx-Xa-90N">
+                                <rect key="frame" x="160.66666666666666" y="536" width="54" height="20.333333333333371"/>
+                                <fontDescription key="fontDescription" name="HelveticaNeue-Bold" family="Helvetica Neue" pointSize="17"/>
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
-                            <button opaque="NO" tag="3" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="iuc-PX-UiY">
-                                <rect key="frame" x="172" y="262" width="43" height="30"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <state key="normal" title="Whale"/>
-                                <connections>
-                                    <action selector="soundPressed:" destination="P9v-hM-Qxa" eventType="touchUpInside" id="G4S-tE-hAx"/>
-                                </connections>
-                            </button>
-                            <button opaque="NO" tag="4" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="pzC-3j-p80">
-                                <rect key="frame" x="162" y="358" width="62" height="30"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <state key="normal" title="Sea lions"/>
-                                <connections>
-                                    <action selector="soundPressed:" destination="P9v-hM-Qxa" eventType="touchUpInside" id="2gl-rX-IoT"/>
-                                </connections>
-                            </button>
-                            <button opaque="NO" tag="5" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="zUW-XD-j0v" userLabel="Hippopotamus">
-                                <rect key="frame" x="144" y="462" width="99" height="30"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <state key="normal" title="hippopotamus"/>
-                                <connections>
-                                    <action selector="soundPressed:" destination="P9v-hM-Qxa" eventType="touchUpInside" id="m6C-Op-lkm"/>
-                                </connections>
-                            </button>
-                            <button opaque="NO" tag="27" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="r9U-78-9Is">
-                                <rect key="frame" x="92" y="574" width="210" height="30"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <button opaque="NO" tag="27" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="r9U-78-9Is">
+                                <rect key="frame" x="164" y="561.33333333333337" width="47" height="30"/>
                                 <state key="normal" title="On/Off"/>
                                 <connections>
                                     <action selector="soundPressed:" destination="P9v-hM-Qxa" eventType="touchUpInside" id="Gz2-uD-8k4"/>
                                 </connections>
                             </button>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Toggle" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="9Bx-Xa-90N">
-                                <rect key="frame" x="169" y="535" width="54" height="21"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <fontDescription key="fontDescription" name="HelveticaNeue-Bold" family="Helvetica Neue" pointSize="17"/>
-                                <nil key="textColor"/>
-                                <nil key="highlightedColor"/>
-                            </label>
                         </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <constraints>
+                            <constraint firstItem="r9U-78-9Is" firstAttribute="centerX" secondItem="mh1-pl-IYC" secondAttribute="centerX" id="9Jy-E6-klw"/>
+                            <constraint firstItem="Om6-QO-s5q" firstAttribute="centerX" secondItem="mh1-pl-IYC" secondAttribute="centerX" id="BqK-LK-Xqj"/>
+                            <constraint firstItem="r9U-78-9Is" firstAttribute="top" secondItem="9Bx-Xa-90N" secondAttribute="bottom" constant="15" id="C0l-VW-B23">
+                                <variation key="heightClass=compact-widthClass=compact" constant="4"/>
+                                <variation key="heightClass=compact-widthClass=regular" constant="5"/>
+                                <variation key="heightClass=regular-widthClass=compact" constant="5"/>
+                                <variation key="heightClass=regular-widthClass=regular" constant="30"/>
+                            </constraint>
+                            <constraint firstItem="AV3-TQ-S4f" firstAttribute="top" secondItem="Om6-QO-s5q" secondAttribute="bottom" constant="10" id="Jfk-2N-p8o">
+                                <variation key="heightClass=compact-widthClass=compact" constant="10"/>
+                                <variation key="heightClass=compact-widthClass=regular" constant="10"/>
+                            </constraint>
+                            <constraint firstItem="9Bx-Xa-90N" firstAttribute="centerX" secondItem="mh1-pl-IYC" secondAttribute="centerX" id="LJk-V2-h6y"/>
+                            <constraint firstItem="AV3-TQ-S4f" firstAttribute="centerX" secondItem="mh1-pl-IYC" secondAttribute="centerX" id="TwK-SB-BiW"/>
+                            <constraint firstItem="AV3-TQ-S4f" firstAttribute="centerY" secondItem="mh1-pl-IYC" secondAttribute="centerY" id="UCE-or-bNb">
+                                <variation key="heightClass=compact-widthClass=regular" constant="-20"/>
+                            </constraint>
+                            <constraint firstItem="9Bx-Xa-90N" firstAttribute="top" secondItem="AV3-TQ-S4f" secondAttribute="bottom" constant="30" id="bpm-xI-Wpb">
+                                <variation key="heightClass=compact-widthClass=compact" constant="5"/>
+                                <variation key="heightClass=compact-widthClass=regular" constant="10"/>
+                                <variation key="heightClass=regular-widthClass=compact" constant="15"/>
+                                <variation key="heightClass=regular-widthClass=regular" constant="40"/>
+                            </constraint>
+                            <constraint firstItem="Om6-QO-s5q" firstAttribute="top" secondItem="3uX-Ua-E5I" secondAttribute="top" constant="10" id="qJZ-de-hLQ">
+                                <variation key="heightClass=compact-widthClass=regular" constant="0.0"/>
+                            </constraint>
+                        </constraints>
                         <viewLayoutGuide key="safeArea" id="3uX-Ua-E5I"/>
                     </view>
                 </viewController>
@@ -328,11 +471,11 @@
             <objects>
                 <viewController id="dDn-of-m3A" customClass="ViewController" customModule="Part_1___Sound_Effects_Application" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="lb3-fE-czz">
-                        <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="812"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" spacing="10" translatesAutoresizingMaskIntoConstraints="NO" id="g8d-Q1-4zU">
-                                <rect key="frame" x="112.5" y="169" width="95" height="230"/>
+                                <rect key="frame" x="140" y="291" width="95" height="230"/>
                                 <subviews>
                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="QwD-UP-HHc">
                                         <rect key="frame" x="0.0" y="0.0" width="95" height="70"/>
@@ -395,7 +538,7 @@
                                 <variation key="heightClass=regular-widthClass=compact" spacing="10"/>
                             </stackView>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Toggle" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="UQG-8n-J5N">
-                                <rect key="frame" x="133" y="414" width="54" height="20.5"/>
+                                <rect key="frame" x="160.66666666666666" y="536" width="54" height="20.333333333333371"/>
                                 <fontDescription key="fontDescription" name="HelveticaNeue-Bold" family="Helvetica Neue" pointSize="17"/>
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
@@ -404,7 +547,7 @@
                                 </variation>
                             </label>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Land Animals" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="stj-3s-839">
-                                <rect key="frame" x="19" y="74" width="282" height="85"/>
+                                <rect key="frame" x="46.666666666666657" y="98" width="282" height="183"/>
                                 <fontDescription key="fontDescription" name="Palatino-Roman" family="Palatino" pointSize="45"/>
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
@@ -419,7 +562,7 @@
                                 </variation>
                             </label>
                             <button opaque="NO" tag="27" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="kMb-pb-jjB">
-                                <rect key="frame" x="136.5" y="439.5" width="47" height="30"/>
+                                <rect key="frame" x="164" y="561.33333333333337" width="47" height="30"/>
                                 <state key="normal" title="On/Off"/>
                                 <variation key="heightClass=regular-widthClass=regular">
                                     <fontDescription key="fontDescription" type="system" pointSize="40"/>
@@ -451,7 +594,6 @@
                             <constraint firstItem="stj-3s-839" firstAttribute="top" secondItem="5FY-yC-Vsx" secondAttribute="top" constant="10" id="rUP-5E-wu2">
                                 <variation key="heightClass=compact-widthClass=regular" constant="0.0"/>
                             </constraint>
-                            <constraint firstItem="UQG-8n-J5N" firstAttribute="centerX" secondItem="lb3-fE-czz" secondAttribute="centerX" id="w3F-vv-6Bl"/>
                             <constraint firstItem="kMb-pb-jjB" firstAttribute="top" secondItem="UQG-8n-J5N" secondAttribute="bottom" constant="15" id="zCx-Pd-py6">
                                 <variation key="heightClass=compact-widthClass=compact" constant="4"/>
                                 <variation key="heightClass=compact-widthClass=regular" constant="5"/>
@@ -471,57 +613,130 @@
             <objects>
                 <viewController id="qpA-4W-dw5" customClass="ViewController" customModule="Part_1___Sound_Effects_Application" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="S1z-Tk-zgS">
-                        <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="812"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Cars" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="8pU-h3-NU8">
-                                <rect key="frame" x="173" y="233" width="46" height="39"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                            <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" spacing="10" translatesAutoresizingMaskIntoConstraints="NO" id="zBO-po-ODI">
+                                <rect key="frame" x="140" y="291" width="95" height="230"/>
+                                <subviews>
+                                    <button opaque="NO" tag="15" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="97Y-X9-aWi">
+                                        <rect key="frame" x="0.0" y="0.0" width="95" height="70"/>
+                                        <constraints>
+                                            <constraint firstAttribute="height" constant="55" id="ByV-eE-gIH">
+                                                <variation key="heightClass=compact-widthClass=compact" constant="45"/>
+                                                <variation key="heightClass=regular-widthClass=compact" constant="70"/>
+                                                <variation key="heightClass=regular-widthClass=regular" constant="110"/>
+                                            </constraint>
+                                        </constraints>
+                                        <state key="normal" title="Supercar" backgroundImage="Car">
+                                            <color key="titleColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                        </state>
+                                        <connections>
+                                            <action selector="soundPressed:" destination="qpA-4W-dw5" eventType="touchUpInside" id="Sg4-21-M2L"/>
+                                        </connections>
+                                    </button>
+                                    <button opaque="NO" tag="16" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="YvH-uy-LHY">
+                                        <rect key="frame" x="0.0" y="80" width="95.000000000000227" height="70"/>
+                                        <constraints>
+                                            <constraint firstAttribute="height" constant="55" id="cyZ-Q8-Far">
+                                                <variation key="heightClass=compact-widthClass=compact" constant="45"/>
+                                                <variation key="heightClass=regular-widthClass=compact" constant="70"/>
+                                                <variation key="heightClass=regular-widthClass=regular" constant="110"/>
+                                            </constraint>
+                                        </constraints>
+                                        <state key="normal" title="Motorcycle" backgroundImage="Motorcycle">
+                                            <color key="titleColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                        </state>
+                                        <connections>
+                                            <action selector="soundPressed:" destination="qpA-4W-dw5" eventType="touchUpInside" id="sq0-9J-QHe"/>
+                                        </connections>
+                                    </button>
+                                    <button opaque="NO" tag="17" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="frU-fV-6p5">
+                                        <rect key="frame" x="0.0" y="160" width="95" height="70"/>
+                                        <constraints>
+                                            <constraint firstAttribute="height" constant="55" id="f6s-fL-wcs">
+                                                <variation key="heightClass=compact-widthClass=compact" constant="45"/>
+                                                <variation key="heightClass=regular-widthClass=compact" constant="70"/>
+                                                <variation key="heightClass=regular-widthClass=regular" constant="110"/>
+                                            </constraint>
+                                        </constraints>
+                                        <state key="normal" title="Scooter" backgroundImage="Moped">
+                                            <color key="titleColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                        </state>
+                                        <connections>
+                                            <action selector="soundPressed:" destination="qpA-4W-dw5" eventType="touchUpInside" id="wkW-Nk-kda"/>
+                                        </connections>
+                                    </button>
+                                </subviews>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="75" id="EEj-K5-h32">
+                                        <variation key="heightClass=compact-widthClass=compact" constant="61"/>
+                                        <variation key="heightClass=regular-widthClass=compact" constant="95"/>
+                                        <variation key="heightClass=regular-widthClass=regular" constant="150"/>
+                                    </constraint>
+                                </constraints>
+                                <variation key="heightClass=compact-widthClass=compact" spacing="1"/>
+                                <variation key="heightClass=compact-widthClass=regular" spacing="1"/>
+                                <variation key="heightClass=regular-widthClass=compact" spacing="10"/>
+                            </stackView>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Toggle" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="FvU-sx-gYQ">
+                                <rect key="frame" x="160.66666666666666" y="536" width="54" height="20.333333333333371"/>
+                                <fontDescription key="fontDescription" name="HelveticaNeue-Bold" family="Helvetica Neue" pointSize="17"/>
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
-                            <button opaque="NO" tag="15" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="97Y-X9-aWi">
-                                <rect key="frame" x="169" y="317" width="63" height="30"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <state key="normal" title="Supercar"/>
-                                <connections>
-                                    <action selector="soundPressed:" destination="qpA-4W-dw5" eventType="touchUpInside" id="Sg4-21-M2L"/>
-                                </connections>
-                            </button>
-                            <button opaque="NO" tag="16" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="YvH-uy-LHY">
-                                <rect key="frame" x="158" y="393" width="77" height="30"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <state key="normal" title="Motorcycle"/>
-                                <connections>
-                                    <action selector="soundPressed:" destination="qpA-4W-dw5" eventType="touchUpInside" id="sq0-9J-QHe"/>
-                                </connections>
-                            </button>
-                            <button opaque="NO" tag="17" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="frU-fV-6p5">
-                                <rect key="frame" x="170" y="469" width="54" height="30"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <state key="normal" title="Scooter"/>
-                                <connections>
-                                    <action selector="soundPressed:" destination="qpA-4W-dw5" eventType="touchUpInside" id="wkW-Nk-kda"/>
-                                </connections>
-                            </button>
-                            <button opaque="NO" tag="27" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Xu7-BS-l6G">
-                                <rect key="frame" x="96" y="582" width="182" height="30"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Automobiles" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="8pU-h3-NU8">
+                                <rect key="frame" x="58.666666666666657" y="98" width="257.66666666666674" height="183"/>
+                                <fontDescription key="fontDescription" name="Palatino-Roman" family="Palatino" pointSize="45"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                                <variation key="heightClass=compact-widthClass=compact">
+                                    <fontDescription key="fontDescription" name="Palatino-Roman" family="Palatino" pointSize="29"/>
+                                </variation>
+                                <variation key="heightClass=compact-widthClass=regular">
+                                    <fontDescription key="fontDescription" name="Palatino-Roman" family="Palatino" pointSize="38"/>
+                                </variation>
+                                <variation key="heightClass=regular-widthClass=regular">
+                                    <fontDescription key="fontDescription" name="Palatino-Roman" family="Palatino" pointSize="77"/>
+                                </variation>
+                            </label>
+                            <button opaque="NO" tag="27" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Xu7-BS-l6G">
+                                <rect key="frame" x="164" y="561.33333333333337" width="47" height="30"/>
                                 <state key="normal" title="On/Off"/>
                                 <connections>
                                     <action selector="soundPressed:" destination="qpA-4W-dw5" eventType="touchUpInside" id="lc4-JH-Q0G"/>
                                 </connections>
                             </button>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Toggle" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="FvU-sx-gYQ">
-                                <rect key="frame" x="159" y="543" width="54" height="21"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <fontDescription key="fontDescription" name="HelveticaNeue-Bold" family="Helvetica Neue" pointSize="17"/>
-                                <nil key="textColor"/>
-                                <nil key="highlightedColor"/>
-                            </label>
                         </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <constraints>
+                            <constraint firstItem="zBO-po-ODI" firstAttribute="centerX" secondItem="S1z-Tk-zgS" secondAttribute="centerX" id="AMl-eT-uLI"/>
+                            <constraint firstItem="8pU-h3-NU8" firstAttribute="top" secondItem="EVW-oy-IU2" secondAttribute="top" constant="10" id="H4q-S7-xOy">
+                                <variation key="heightClass=compact-widthClass=regular" constant="0.0"/>
+                            </constraint>
+                            <constraint firstItem="zBO-po-ODI" firstAttribute="top" secondItem="8pU-h3-NU8" secondAttribute="bottom" constant="10" id="SJE-TV-06d">
+                                <variation key="heightClass=compact-widthClass=compact" constant="10"/>
+                                <variation key="heightClass=compact-widthClass=regular" constant="10"/>
+                            </constraint>
+                            <constraint firstItem="FvU-sx-gYQ" firstAttribute="centerX" secondItem="S1z-Tk-zgS" secondAttribute="centerX" id="TBa-nR-BQL"/>
+                            <constraint firstItem="zBO-po-ODI" firstAttribute="centerY" secondItem="S1z-Tk-zgS" secondAttribute="centerY" id="XOA-yI-xXc">
+                                <variation key="heightClass=compact-widthClass=regular" constant="-20"/>
+                            </constraint>
+                            <constraint firstItem="Xu7-BS-l6G" firstAttribute="centerX" secondItem="S1z-Tk-zgS" secondAttribute="centerX" id="Zrg-Rl-cyr"/>
+                            <constraint firstItem="8pU-h3-NU8" firstAttribute="centerX" secondItem="S1z-Tk-zgS" secondAttribute="centerX" id="bKe-Vp-GWn"/>
+                            <constraint firstItem="Xu7-BS-l6G" firstAttribute="top" secondItem="FvU-sx-gYQ" secondAttribute="bottom" constant="15" id="eg9-Nl-RoJ">
+                                <variation key="heightClass=compact-widthClass=compact" constant="4"/>
+                                <variation key="heightClass=compact-widthClass=regular" constant="5"/>
+                                <variation key="heightClass=regular-widthClass=compact" constant="5"/>
+                                <variation key="heightClass=regular-widthClass=regular" constant="30"/>
+                            </constraint>
+                            <constraint firstItem="FvU-sx-gYQ" firstAttribute="top" secondItem="zBO-po-ODI" secondAttribute="bottom" constant="30" id="mcg-1a-QsQ">
+                                <variation key="heightClass=compact-widthClass=compact" constant="5"/>
+                                <variation key="heightClass=compact-widthClass=regular" constant="10"/>
+                                <variation key="heightClass=regular-widthClass=compact" constant="15"/>
+                                <variation key="heightClass=regular-widthClass=regular" constant="40"/>
+                            </constraint>
+                        </constraints>
                         <viewLayoutGuide key="safeArea" id="EVW-oy-IU2"/>
                     </view>
                 </viewController>
@@ -534,309 +749,674 @@
             <objects>
                 <viewController id="fzB-ib-S2u" customClass="ViewController" customModule="Part_1___Sound_Effects_Application" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="kfC-rv-D89">
-                        <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="812"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <button opaque="NO" tag="12" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="pbA-Re-sU3">
-                                <rect key="frame" x="169" y="276" width="42" height="30"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <state key="normal" title="Police"/>
-                                <connections>
-                                    <action selector="soundPressed:" destination="fzB-ib-S2u" eventType="touchUpInside" id="QaV-kv-KOR"/>
-                                </connections>
-                            </button>
-                            <button opaque="NO" tag="13" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="YY6-fv-nKO">
-                                <rect key="frame" x="156" y="352" width="61" height="30"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <state key="normal" title="Firetruck"/>
-                                <connections>
-                                    <action selector="soundPressed:" destination="fzB-ib-S2u" eventType="touchUpInside" id="w5l-oc-Y2k"/>
-                                </connections>
-                            </button>
-                            <button opaque="NO" tag="14" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="ldz-YH-Fxy">
-                                <rect key="frame" x="148" y="428" width="77" height="30"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <state key="normal" title="Ambulance"/>
-                                <connections>
-                                    <action selector="soundPressed:" destination="fzB-ib-S2u" eventType="touchUpInside" id="KTk-OD-UtB"/>
-                                </connections>
-                            </button>
-                            <button opaque="NO" tag="27" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="p3G-xl-2lI">
-                                <rect key="frame" x="88" y="567" width="182" height="30"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" spacing="10" translatesAutoresizingMaskIntoConstraints="NO" id="Dxa-kh-Y7i">
+                                <rect key="frame" x="140" y="291" width="95" height="230"/>
+                                <subviews>
+                                    <button opaque="NO" tag="12" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="pbA-Re-sU3">
+                                        <rect key="frame" x="0.0" y="0.0" width="95" height="70"/>
+                                        <constraints>
+                                            <constraint firstAttribute="height" constant="55" id="lo6-SZ-2rC">
+                                                <variation key="heightClass=compact-widthClass=compact" constant="45"/>
+                                                <variation key="heightClass=regular-widthClass=compact" constant="70"/>
+                                                <variation key="heightClass=regular-widthClass=regular" constant="110"/>
+                                            </constraint>
+                                        </constraints>
+                                        <state key="normal" title="Police" backgroundImage="Police">
+                                            <color key="titleColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                        </state>
+                                        <connections>
+                                            <action selector="soundPressed:" destination="fzB-ib-S2u" eventType="touchUpInside" id="QaV-kv-KOR"/>
+                                        </connections>
+                                    </button>
+                                    <button opaque="NO" tag="13" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="YY6-fv-nKO">
+                                        <rect key="frame" x="0.0" y="80" width="95.000000000000455" height="70"/>
+                                        <constraints>
+                                            <constraint firstAttribute="height" constant="55" id="cIQ-Rk-xZs">
+                                                <variation key="heightClass=compact-widthClass=compact" constant="45"/>
+                                                <variation key="heightClass=regular-widthClass=compact" constant="70"/>
+                                                <variation key="heightClass=regular-widthClass=regular" constant="110"/>
+                                            </constraint>
+                                        </constraints>
+                                        <state key="normal" title="Firetruck" backgroundImage="Firetruck">
+                                            <color key="titleColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                        </state>
+                                        <connections>
+                                            <action selector="soundPressed:" destination="fzB-ib-S2u" eventType="touchUpInside" id="w5l-oc-Y2k"/>
+                                        </connections>
+                                    </button>
+                                    <button opaque="NO" tag="14" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="ldz-YH-Fxy">
+                                        <rect key="frame" x="0.0" y="160" width="95" height="70"/>
+                                        <constraints>
+                                            <constraint firstAttribute="height" constant="55" id="ryL-pH-MTA">
+                                                <variation key="heightClass=compact-widthClass=compact" constant="45"/>
+                                                <variation key="heightClass=regular-widthClass=compact" constant="70"/>
+                                                <variation key="heightClass=regular-widthClass=regular" constant="110"/>
+                                            </constraint>
+                                        </constraints>
+                                        <state key="normal" title="Ambulance" backgroundImage="Ambulance">
+                                            <color key="titleColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                        </state>
+                                        <connections>
+                                            <action selector="soundPressed:" destination="fzB-ib-S2u" eventType="touchUpInside" id="KTk-OD-UtB"/>
+                                        </connections>
+                                    </button>
+                                </subviews>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="75" id="XNi-d8-KO1">
+                                        <variation key="heightClass=compact-widthClass=compact" constant="61"/>
+                                        <variation key="heightClass=regular-widthClass=compact" constant="95"/>
+                                        <variation key="heightClass=regular-widthClass=regular" constant="150"/>
+                                    </constraint>
+                                </constraints>
+                                <variation key="heightClass=compact-widthClass=compact" spacing="1"/>
+                                <variation key="heightClass=compact-widthClass=regular" spacing="1"/>
+                                <variation key="heightClass=regular-widthClass=compact" spacing="10"/>
+                            </stackView>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Toggle" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="39O-rJ-EE3">
+                                <rect key="frame" x="160.66666666666666" y="536" width="54" height="20.333333333333371"/>
+                                <fontDescription key="fontDescription" name="HelveticaNeue-Bold" family="Helvetica Neue" pointSize="17"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Emergency Services" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="wh7-sN-guN">
+                                <rect key="frame" x="33.333333333333343" y="98" width="308.66666666666663" height="183"/>
+                                <fontDescription key="fontDescription" name="Palatino-Roman" family="Palatino" pointSize="35"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                                <variation key="heightClass=compact-widthClass=compact">
+                                    <fontDescription key="fontDescription" name="Palatino-Roman" family="Palatino" pointSize="29"/>
+                                </variation>
+                                <variation key="heightClass=compact-widthClass=regular">
+                                    <fontDescription key="fontDescription" name="Palatino-Roman" family="Palatino" pointSize="38"/>
+                                </variation>
+                                <variation key="heightClass=regular-widthClass=regular">
+                                    <fontDescription key="fontDescription" name="Palatino-Roman" family="Palatino" pointSize="77"/>
+                                </variation>
+                            </label>
+                            <button opaque="NO" tag="27" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="p3G-xl-2lI">
+                                <rect key="frame" x="164" y="561.33333333333337" width="47" height="30"/>
                                 <state key="normal" title="On/Off"/>
                                 <connections>
                                     <action selector="soundPressed:" destination="fzB-ib-S2u" eventType="touchUpInside" id="vxP-Pe-8fP"/>
                                 </connections>
                             </button>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Toggle" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="39O-rJ-EE3">
-                                <rect key="frame" x="151" y="528" width="54" height="21"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <fontDescription key="fontDescription" name="HelveticaNeue-Bold" family="Helvetica Neue" pointSize="17"/>
-                                <nil key="textColor"/>
-                                <nil key="highlightedColor"/>
-                            </label>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Emergency" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="wh7-sN-guN">
-                                <rect key="frame" x="148" y="192" width="106" height="39"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
-                                <nil key="textColor"/>
-                                <nil key="highlightedColor"/>
-                            </label>
                         </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <constraints>
+                            <constraint firstItem="Dxa-kh-Y7i" firstAttribute="centerX" secondItem="kfC-rv-D89" secondAttribute="centerX" id="0pf-uZ-K8V"/>
+                            <constraint firstItem="39O-rJ-EE3" firstAttribute="top" secondItem="Dxa-kh-Y7i" secondAttribute="bottom" constant="30" id="0qb-0c-cxO">
+                                <variation key="heightClass=compact-widthClass=compact" constant="5"/>
+                                <variation key="heightClass=compact-widthClass=regular" constant="10"/>
+                                <variation key="heightClass=regular-widthClass=compact" constant="15"/>
+                                <variation key="heightClass=regular-widthClass=regular" constant="40"/>
+                            </constraint>
+                            <constraint firstItem="Dxa-kh-Y7i" firstAttribute="top" secondItem="wh7-sN-guN" secondAttribute="bottom" constant="10" id="Opd-7g-lPk">
+                                <variation key="heightClass=compact-widthClass=compact" constant="10"/>
+                                <variation key="heightClass=compact-widthClass=regular" constant="10"/>
+                            </constraint>
+                            <constraint firstItem="wh7-sN-guN" firstAttribute="top" secondItem="CaH-Ek-dA0" secondAttribute="top" constant="10" id="RVn-6u-bLB">
+                                <variation key="heightClass=compact-widthClass=regular" constant="0.0"/>
+                            </constraint>
+                            <constraint firstItem="39O-rJ-EE3" firstAttribute="centerX" secondItem="kfC-rv-D89" secondAttribute="centerX" id="Wur-8Y-dY6"/>
+                            <constraint firstItem="p3G-xl-2lI" firstAttribute="top" secondItem="39O-rJ-EE3" secondAttribute="bottom" constant="15" id="ZfI-6u-sjO">
+                                <variation key="heightClass=compact-widthClass=compact" constant="4"/>
+                                <variation key="heightClass=compact-widthClass=regular" constant="5"/>
+                                <variation key="heightClass=regular-widthClass=compact" constant="5"/>
+                                <variation key="heightClass=regular-widthClass=regular" constant="30"/>
+                            </constraint>
+                            <constraint firstItem="p3G-xl-2lI" firstAttribute="centerX" secondItem="kfC-rv-D89" secondAttribute="centerX" id="h9D-Wx-2Gi"/>
+                            <constraint firstItem="Dxa-kh-Y7i" firstAttribute="centerY" secondItem="kfC-rv-D89" secondAttribute="centerY" id="szd-Xs-xOf">
+                                <variation key="heightClass=compact-widthClass=regular" constant="-20"/>
+                            </constraint>
+                            <constraint firstItem="wh7-sN-guN" firstAttribute="centerX" secondItem="kfC-rv-D89" secondAttribute="centerX" id="y0F-Fd-nzW"/>
+                        </constraints>
                         <viewLayoutGuide key="safeArea" id="CaH-Ek-dA0"/>
                     </view>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="AKT-DC-xJS" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="2892.753623188406" y="1878.3482142857142"/>
+            <point key="canvasLocation" x="2891.25" y="1877.5"/>
         </scene>
         <!--View Controller-->
         <scene sceneID="9wy-BZ-Tu9">
             <objects>
                 <viewController id="8Fc-G4-3sy" customClass="ViewController" customModule="Part_1___Sound_Effects_Application" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="IdY-xb-AyH">
-                        <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="812"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Aircraft" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="kJN-xM-glW">
-                                <rect key="frame" x="181" y="199" width="59" height="39"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
-                                <nil key="textColor"/>
-                                <nil key="highlightedColor"/>
-                            </label>
-                            <button opaque="NO" tag="9" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Qcz-QQ-ByR">
-                                <rect key="frame" x="178" y="283" width="59" height="30"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <state key="normal" title="Jetplane"/>
-                                <connections>
-                                    <action selector="soundPressed:" destination="8Fc-G4-3sy" eventType="touchUpInside" id="Rh4-BP-Vu0"/>
-                                </connections>
-                            </button>
-                            <button opaque="NO" tag="10" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="9Bn-s4-2yh">
-                                <rect key="frame" x="156" y="359" width="97" height="30"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <state key="normal" title="Rocket launch"/>
-                                <connections>
-                                    <action selector="soundPressed:" destination="8Fc-G4-3sy" eventType="touchUpInside" id="Hzr-iW-scP"/>
-                                </connections>
-                            </button>
-                            <button opaque="NO" tag="11" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="CCL-k2-0At">
-                                <rect key="frame" x="169" y="435" width="71" height="30"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <state key="normal" title="Helicopter"/>
-                                <connections>
-                                    <action selector="soundPressed:" destination="8Fc-G4-3sy" eventType="touchUpInside" id="LAb-l1-RYP"/>
-                                </connections>
-                            </button>
-                            <button opaque="NO" tag="27" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="if4-XC-C7O">
-                                <rect key="frame" x="119" y="584" width="182" height="30"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" spacing="10" translatesAutoresizingMaskIntoConstraints="NO" id="CIg-hg-snY">
+                                <rect key="frame" x="140" y="291" width="95" height="230"/>
+                                <subviews>
+                                    <button opaque="NO" tag="9" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Qcz-QQ-ByR">
+                                        <rect key="frame" x="0.0" y="0.0" width="95" height="70"/>
+                                        <constraints>
+                                            <constraint firstAttribute="height" constant="55" id="Sh7-x4-c2u">
+                                                <variation key="heightClass=compact-widthClass=compact" constant="45"/>
+                                                <variation key="heightClass=regular-widthClass=compact" constant="70"/>
+                                                <variation key="heightClass=regular-widthClass=regular" constant="110"/>
+                                            </constraint>
+                                        </constraints>
+                                        <state key="normal" title="Jetplane" backgroundImage="Jetplane">
+                                            <color key="titleColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                        </state>
+                                        <connections>
+                                            <action selector="soundPressed:" destination="8Fc-G4-3sy" eventType="touchUpInside" id="Rh4-BP-Vu0"/>
+                                        </connections>
+                                    </button>
+                                    <button opaque="NO" tag="10" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="9Bn-s4-2yh">
+                                        <rect key="frame" x="0.0" y="80" width="95" height="70"/>
+                                        <constraints>
+                                            <constraint firstAttribute="height" constant="55" id="YCp-WO-q3I">
+                                                <variation key="heightClass=compact-widthClass=compact" constant="45"/>
+                                                <variation key="heightClass=regular-widthClass=compact" constant="70"/>
+                                                <variation key="heightClass=regular-widthClass=regular" constant="110"/>
+                                            </constraint>
+                                        </constraints>
+                                        <state key="normal" title="Rocket launch" backgroundImage="Rocket">
+                                            <color key="titleColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                        </state>
+                                        <connections>
+                                            <action selector="soundPressed:" destination="8Fc-G4-3sy" eventType="touchUpInside" id="Hzr-iW-scP"/>
+                                        </connections>
+                                    </button>
+                                    <button opaque="NO" tag="11" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="CCL-k2-0At">
+                                        <rect key="frame" x="0.0" y="160" width="95" height="70"/>
+                                        <constraints>
+                                            <constraint firstAttribute="height" constant="55" id="qfc-Tt-jgv">
+                                                <variation key="heightClass=compact-widthClass=compact" constant="45"/>
+                                                <variation key="heightClass=regular-widthClass=compact" constant="70"/>
+                                                <variation key="heightClass=regular-widthClass=regular" constant="110"/>
+                                            </constraint>
+                                        </constraints>
+                                        <state key="normal" title="Helicopter" backgroundImage="Helicopter">
+                                            <color key="titleColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                        </state>
+                                        <connections>
+                                            <action selector="soundPressed:" destination="8Fc-G4-3sy" eventType="touchUpInside" id="LAb-l1-RYP"/>
+                                        </connections>
+                                    </button>
+                                </subviews>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="75" id="bdT-gy-bhV">
+                                        <variation key="heightClass=compact-widthClass=compact" constant="61"/>
+                                        <variation key="heightClass=regular-widthClass=compact" constant="95"/>
+                                        <variation key="heightClass=regular-widthClass=regular" constant="150"/>
+                                    </constraint>
+                                </constraints>
+                                <variation key="heightClass=compact-widthClass=compact" spacing="1"/>
+                                <variation key="heightClass=compact-widthClass=regular" spacing="1"/>
+                                <variation key="heightClass=regular-widthClass=compact" spacing="10"/>
+                            </stackView>
+                            <button opaque="NO" tag="27" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="if4-XC-C7O">
+                                <rect key="frame" x="164" y="561.33333333333337" width="47" height="30"/>
                                 <state key="normal" title="On/Off"/>
                                 <connections>
                                     <action selector="soundPressed:" destination="8Fc-G4-3sy" eventType="touchUpInside" id="o6f-IO-sU6"/>
                                 </connections>
                             </button>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Toggle" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="DYG-XS-a2g">
-                                <rect key="frame" x="182" y="545" width="54" height="21"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Aircraft" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="kJN-xM-glW">
+                                <rect key="frame" x="110" y="98" width="155" height="183"/>
+                                <fontDescription key="fontDescription" name="Palatino-Roman" family="Palatino" pointSize="45"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                                <variation key="heightClass=compact-widthClass=compact">
+                                    <fontDescription key="fontDescription" name="Palatino-Roman" family="Palatino" pointSize="29"/>
+                                </variation>
+                                <variation key="heightClass=compact-widthClass=regular">
+                                    <fontDescription key="fontDescription" name="Palatino-Roman" family="Palatino" pointSize="38"/>
+                                </variation>
+                                <variation key="heightClass=regular-widthClass=regular">
+                                    <fontDescription key="fontDescription" name="Palatino-Roman" family="Palatino" pointSize="77"/>
+                                </variation>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Toggle" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="DYG-XS-a2g">
+                                <rect key="frame" x="160.66666666666666" y="536" width="54" height="20.333333333333371"/>
                                 <fontDescription key="fontDescription" name="HelveticaNeue-Bold" family="Helvetica Neue" pointSize="17"/>
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
                         </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <constraints>
+                            <constraint firstItem="CIg-hg-snY" firstAttribute="centerY" secondItem="IdY-xb-AyH" secondAttribute="centerY" id="16v-CS-4V0">
+                                <variation key="heightClass=compact-widthClass=regular" constant="-20"/>
+                            </constraint>
+                            <constraint firstItem="CIg-hg-snY" firstAttribute="centerX" secondItem="IdY-xb-AyH" secondAttribute="centerX" id="6g2-Tp-R6D"/>
+                            <constraint firstItem="if4-XC-C7O" firstAttribute="top" secondItem="DYG-XS-a2g" secondAttribute="bottom" constant="15" id="IUE-h0-flF">
+                                <variation key="heightClass=compact-widthClass=compact" constant="4"/>
+                                <variation key="heightClass=compact-widthClass=regular" constant="5"/>
+                                <variation key="heightClass=regular-widthClass=compact" constant="5"/>
+                                <variation key="heightClass=regular-widthClass=regular" constant="30"/>
+                            </constraint>
+                            <constraint firstItem="kJN-xM-glW" firstAttribute="centerX" secondItem="IdY-xb-AyH" secondAttribute="centerX" id="Laz-aY-gxe"/>
+                            <constraint firstItem="if4-XC-C7O" firstAttribute="centerX" secondItem="IdY-xb-AyH" secondAttribute="centerX" id="SPC-0t-67c"/>
+                            <constraint firstItem="DYG-XS-a2g" firstAttribute="centerX" secondItem="IdY-xb-AyH" secondAttribute="centerX" id="WPG-Yd-z1V"/>
+                            <constraint firstItem="CIg-hg-snY" firstAttribute="top" secondItem="kJN-xM-glW" secondAttribute="bottom" constant="10" id="WRl-Db-mqR">
+                                <variation key="heightClass=compact-widthClass=compact" constant="10"/>
+                                <variation key="heightClass=compact-widthClass=regular" constant="10"/>
+                            </constraint>
+                            <constraint firstItem="kJN-xM-glW" firstAttribute="top" secondItem="kjq-l9-lja" secondAttribute="top" constant="10" id="e4V-gO-a1l">
+                                <variation key="heightClass=compact-widthClass=regular" constant="0.0"/>
+                            </constraint>
+                            <constraint firstItem="DYG-XS-a2g" firstAttribute="top" secondItem="CIg-hg-snY" secondAttribute="bottom" constant="30" id="r8H-BV-KGF">
+                                <variation key="heightClass=compact-widthClass=compact" constant="5"/>
+                                <variation key="heightClass=compact-widthClass=regular" constant="10"/>
+                                <variation key="heightClass=regular-widthClass=compact" constant="15"/>
+                                <variation key="heightClass=regular-widthClass=regular" constant="40"/>
+                            </constraint>
+                        </constraints>
                         <viewLayoutGuide key="safeArea" id="kjq-l9-lja"/>
                     </view>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="hUi-G6-pyU" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="3715.9420289855075" y="1873.6607142857142"/>
+            <point key="canvasLocation" x="3714.375" y="1872.5"/>
         </scene>
         <!--View Controller-->
         <scene sceneID="hl5-dE-Cs0">
             <objects>
                 <viewController id="xlu-Zz-nlI" customClass="ViewController" customModule="Part_1___Sound_Effects_Application" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="Dzp-wL-Mbp">
-                        <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="812"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Sky" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="RXD-V8-NlZ">
-                                <rect key="frame" x="184" y="209" width="46" height="39"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Sky" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="RXD-V8-NlZ">
+                                <rect key="frame" x="150.66666666666666" y="98" width="74" height="183"/>
+                                <fontDescription key="fontDescription" name="Palatino-Roman" family="Palatino" pointSize="45"/>
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
+                                <variation key="heightClass=compact-widthClass=compact">
+                                    <fontDescription key="fontDescription" name="Palatino-Roman" family="Palatino" pointSize="29"/>
+                                </variation>
+                                <variation key="heightClass=compact-widthClass=regular">
+                                    <fontDescription key="fontDescription" name="Palatino-Roman" family="Palatino" pointSize="38"/>
+                                </variation>
+                                <variation key="heightClass=regular-widthClass=regular">
+                                    <fontDescription key="fontDescription" name="Palatino-Roman" family="Palatino" pointSize="77"/>
+                                </variation>
                             </label>
-                            <button opaque="NO" tag="24" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="m0A-N1-CSS">
-                                <rect key="frame" x="181" y="293" width="58" height="30"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <state key="normal" title="Thunder"/>
-                                <connections>
-                                    <action selector="soundPressed:" destination="xlu-Zz-nlI" eventType="touchUpInside" id="yRX-QM-hCM"/>
-                                </connections>
-                            </button>
-                            <button opaque="NO" tag="25" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="hjQ-4Q-Ugm">
-                                <rect key="frame" x="179" y="369" width="57" height="30"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <state key="normal" title="Tornado"/>
-                                <connections>
-                                    <action selector="soundPressed:" destination="xlu-Zz-nlI" eventType="touchUpInside" id="KcN-CH-UmL"/>
-                                </connections>
-                            </button>
-                            <button opaque="NO" tag="26" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Yso-JK-bFO">
-                                <rect key="frame" x="180" y="445" width="55" height="30"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <state key="normal" title="Blizzard"/>
-                                <connections>
-                                    <action selector="soundPressed:" destination="xlu-Zz-nlI" eventType="touchUpInside" id="45a-i9-26P"/>
-                                </connections>
-                            </button>
-                            <button opaque="NO" tag="27" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="AGG-dL-R3q">
-                                <rect key="frame" x="119" y="588" width="182" height="30"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" spacing="10" translatesAutoresizingMaskIntoConstraints="NO" id="fqg-9z-793">
+                                <rect key="frame" x="140" y="291" width="95" height="230"/>
+                                <subviews>
+                                    <button opaque="NO" tag="24" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="m0A-N1-CSS">
+                                        <rect key="frame" x="0.0" y="0.0" width="95" height="70"/>
+                                        <constraints>
+                                            <constraint firstAttribute="height" constant="55" id="5h3-i7-XZH">
+                                                <variation key="heightClass=compact-widthClass=compact" constant="45"/>
+                                                <variation key="heightClass=regular-widthClass=compact" constant="70"/>
+                                                <variation key="heightClass=regular-widthClass=regular" constant="110"/>
+                                            </constraint>
+                                        </constraints>
+                                        <state key="normal" title="Thunder" backgroundImage="Thunder">
+                                            <color key="titleColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                        </state>
+                                        <connections>
+                                            <action selector="soundPressed:" destination="xlu-Zz-nlI" eventType="touchUpInside" id="yRX-QM-hCM"/>
+                                        </connections>
+                                    </button>
+                                    <button opaque="NO" tag="25" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="hjQ-4Q-Ugm">
+                                        <rect key="frame" x="0.0" y="80" width="95" height="70"/>
+                                        <constraints>
+                                            <constraint firstAttribute="height" constant="55" id="9X6-zZ-Rkd">
+                                                <variation key="heightClass=compact-widthClass=compact" constant="45"/>
+                                                <variation key="heightClass=regular-widthClass=compact" constant="70"/>
+                                                <variation key="heightClass=regular-widthClass=regular" constant="110"/>
+                                            </constraint>
+                                        </constraints>
+                                        <state key="normal" title="Tornado" backgroundImage="Tornado">
+                                            <color key="titleColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                        </state>
+                                        <connections>
+                                            <action selector="soundPressed:" destination="xlu-Zz-nlI" eventType="touchUpInside" id="KcN-CH-UmL"/>
+                                        </connections>
+                                    </button>
+                                    <button opaque="NO" tag="26" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Yso-JK-bFO">
+                                        <rect key="frame" x="0.0" y="160" width="95" height="70"/>
+                                        <constraints>
+                                            <constraint firstAttribute="height" constant="55" id="445-90-vQU">
+                                                <variation key="heightClass=compact-widthClass=compact" constant="45"/>
+                                                <variation key="heightClass=regular-widthClass=compact" constant="70"/>
+                                                <variation key="heightClass=regular-widthClass=regular" constant="110"/>
+                                            </constraint>
+                                        </constraints>
+                                        <state key="normal" title="Blizzard" backgroundImage="Blizzard">
+                                            <color key="titleColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                        </state>
+                                        <connections>
+                                            <action selector="soundPressed:" destination="xlu-Zz-nlI" eventType="touchUpInside" id="45a-i9-26P"/>
+                                        </connections>
+                                    </button>
+                                </subviews>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="75" id="qe2-XP-pWB">
+                                        <variation key="heightClass=compact-widthClass=compact" constant="61"/>
+                                        <variation key="heightClass=regular-widthClass=compact" constant="95"/>
+                                        <variation key="heightClass=regular-widthClass=regular" constant="150"/>
+                                    </constraint>
+                                </constraints>
+                                <variation key="heightClass=compact-widthClass=compact" spacing="1"/>
+                                <variation key="heightClass=compact-widthClass=regular" spacing="1"/>
+                                <variation key="heightClass=regular-widthClass=compact" spacing="10"/>
+                            </stackView>
+                            <button opaque="NO" tag="27" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="AGG-dL-R3q">
+                                <rect key="frame" x="164" y="561.33333333333337" width="47" height="30"/>
                                 <state key="normal" title="On/Off"/>
                                 <connections>
                                     <action selector="soundPressed:" destination="xlu-Zz-nlI" eventType="touchUpInside" id="1Kz-M0-kzZ"/>
                                 </connections>
                             </button>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Toggle" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="eyA-mh-Iuu">
-                                <rect key="frame" x="182" y="549" width="54" height="21"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Toggle" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="eyA-mh-Iuu">
+                                <rect key="frame" x="160.66666666666666" y="536" width="54" height="20.333333333333371"/>
                                 <fontDescription key="fontDescription" name="HelveticaNeue-Bold" family="Helvetica Neue" pointSize="17"/>
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
                         </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <constraints>
+                            <constraint firstItem="AGG-dL-R3q" firstAttribute="top" secondItem="eyA-mh-Iuu" secondAttribute="bottom" constant="15" id="8em-H7-xMh">
+                                <variation key="heightClass=compact-widthClass=compact" constant="4"/>
+                                <variation key="heightClass=compact-widthClass=regular" constant="10"/>
+                                <variation key="heightClass=regular-widthClass=compact" constant="5"/>
+                                <variation key="heightClass=regular-widthClass=regular" constant="30"/>
+                            </constraint>
+                            <constraint firstItem="RXD-V8-NlZ" firstAttribute="centerX" secondItem="Dzp-wL-Mbp" secondAttribute="centerX" id="DGT-34-S0x"/>
+                            <constraint firstItem="eyA-mh-Iuu" firstAttribute="centerX" secondItem="Dzp-wL-Mbp" secondAttribute="centerX" id="NQB-Jc-9IE"/>
+                            <constraint firstItem="fqg-9z-793" firstAttribute="centerX" secondItem="Dzp-wL-Mbp" secondAttribute="centerX" id="Neq-l4-Dr9"/>
+                            <constraint firstItem="fqg-9z-793" firstAttribute="top" secondItem="RXD-V8-NlZ" secondAttribute="bottom" constant="10" id="da8-40-he4">
+                                <variation key="heightClass=compact-widthClass=compact" constant="10"/>
+                                <variation key="heightClass=compact-widthClass=regular" constant="10"/>
+                            </constraint>
+                            <constraint firstItem="eyA-mh-Iuu" firstAttribute="top" secondItem="fqg-9z-793" secondAttribute="bottom" constant="30" id="edS-yL-EGl">
+                                <variation key="heightClass=compact-widthClass=compact" constant="5"/>
+                                <variation key="heightClass=compact-widthClass=regular" constant="10"/>
+                                <variation key="heightClass=regular-widthClass=compact" constant="15"/>
+                                <variation key="heightClass=regular-widthClass=regular" constant="40"/>
+                            </constraint>
+                            <constraint firstItem="fqg-9z-793" firstAttribute="centerY" secondItem="Dzp-wL-Mbp" secondAttribute="centerY" id="fvZ-hG-Igs">
+                                <variation key="heightClass=compact-widthClass=regular" constant="-20"/>
+                            </constraint>
+                            <constraint firstItem="AGG-dL-R3q" firstAttribute="centerX" secondItem="Dzp-wL-Mbp" secondAttribute="centerX" id="krp-UD-aYj"/>
+                            <constraint firstItem="RXD-V8-NlZ" firstAttribute="top" secondItem="O9W-Er-c7K" secondAttribute="top" constant="10" id="lwC-2l-1Rs">
+                                <variation key="heightClass=compact-widthClass=regular" constant="0.0"/>
+                            </constraint>
+                        </constraints>
                         <viewLayoutGuide key="safeArea" id="O9W-Er-c7K"/>
                     </view>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="woz-im-6LU" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="4778" y="1859"/>
+            <point key="canvasLocation" x="4776.811594202899" y="1858.9285714285713"/>
         </scene>
         <!--View Controller-->
         <scene sceneID="dWa-sf-cW2">
             <objects>
                 <viewController id="2CV-RI-MWX" customClass="ViewController" customModule="Part_1___Sound_Effects_Application" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="gUx-4V-2AA">
-                        <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="812"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Earth" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="L6R-16-Gr7">
-                                <rect key="frame" x="184" y="236" width="46" height="39"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Earth" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="L6R-16-Gr7">
+                                <rect key="frame" x="133.33333333333334" y="98" width="108.66666666666666" height="183"/>
+                                <fontDescription key="fontDescription" name="Palatino-Roman" family="Palatino" pointSize="45"/>
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
+                                <variation key="heightClass=compact-widthClass=compact">
+                                    <fontDescription key="fontDescription" name="Palatino-Roman" family="Palatino" pointSize="29"/>
+                                </variation>
+                                <variation key="heightClass=compact-widthClass=regular">
+                                    <fontDescription key="fontDescription" name="Palatino-Roman" family="Palatino" pointSize="38"/>
+                                </variation>
+                                <variation key="heightClass=regular-widthClass=regular">
+                                    <fontDescription key="fontDescription" name="Palatino-Roman" family="Palatino" pointSize="77"/>
+                                </variation>
                             </label>
-                            <button opaque="NO" tag="21" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="g0R-zs-qTR">
-                                <rect key="frame" x="182" y="320" width="55" height="30"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <state key="normal" title="Volanco"/>
-                                <connections>
-                                    <action selector="soundPressed:" destination="2CV-RI-MWX" eventType="touchUpInside" id="0Bs-8N-QzH"/>
-                                </connections>
-                            </button>
-                            <button opaque="NO" tag="22" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="vGF-gS-XJx">
-                                <rect key="frame" x="168" y="396" width="78" height="30"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <state key="normal" title="Earthquake"/>
-                                <connections>
-                                    <action selector="soundPressed:" destination="2CV-RI-MWX" eventType="touchUpInside" id="5hk-c5-gFs"/>
-                                </connections>
-                            </button>
-                            <button opaque="NO" tag="23" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Axe-1J-t4u">
-                                <rect key="frame" x="177" y="472" width="61" height="30"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <state key="normal" title="Mudpool"/>
-                                <connections>
-                                    <action selector="soundPressed:" destination="2CV-RI-MWX" eventType="touchUpInside" id="BYl-ey-XR2"/>
-                                </connections>
-                            </button>
-                            <button opaque="NO" tag="27" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="LAO-b7-Mdg">
-                                <rect key="frame" x="118" y="590" width="182" height="30"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" spacing="10" translatesAutoresizingMaskIntoConstraints="NO" id="jr8-ge-xQf">
+                                <rect key="frame" x="140" y="291" width="95" height="230"/>
+                                <subviews>
+                                    <button opaque="NO" tag="21" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="g0R-zs-qTR">
+                                        <rect key="frame" x="0.0" y="0.0" width="95" height="70"/>
+                                        <constraints>
+                                            <constraint firstAttribute="height" constant="55" id="E7L-bf-fca">
+                                                <variation key="heightClass=compact-widthClass=compact" constant="45"/>
+                                                <variation key="heightClass=regular-widthClass=compact" constant="70"/>
+                                                <variation key="heightClass=regular-widthClass=regular" constant="110"/>
+                                            </constraint>
+                                        </constraints>
+                                        <state key="normal" title="Volanco" backgroundImage="Volcano">
+                                            <color key="titleColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                        </state>
+                                        <connections>
+                                            <action selector="soundPressed:" destination="2CV-RI-MWX" eventType="touchUpInside" id="0Bs-8N-QzH"/>
+                                        </connections>
+                                    </button>
+                                    <button opaque="NO" tag="22" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="vGF-gS-XJx">
+                                        <rect key="frame" x="0.0" y="80" width="95" height="70"/>
+                                        <constraints>
+                                            <constraint firstAttribute="height" constant="55" id="3Bb-jB-Erb">
+                                                <variation key="heightClass=compact-widthClass=compact" constant="45"/>
+                                                <variation key="heightClass=regular-widthClass=compact" constant="70"/>
+                                                <variation key="heightClass=regular-widthClass=regular" constant="110"/>
+                                            </constraint>
+                                        </constraints>
+                                        <state key="normal" title="Earthquake" backgroundImage="Earthquake">
+                                            <color key="titleColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                        </state>
+                                        <connections>
+                                            <action selector="soundPressed:" destination="2CV-RI-MWX" eventType="touchUpInside" id="5hk-c5-gFs"/>
+                                        </connections>
+                                    </button>
+                                    <button opaque="NO" tag="23" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Axe-1J-t4u">
+                                        <rect key="frame" x="0.0" y="160" width="95" height="70"/>
+                                        <constraints>
+                                            <constraint firstAttribute="height" constant="55" id="jZv-7t-T3Z">
+                                                <variation key="heightClass=compact-widthClass=compact" constant="45"/>
+                                                <variation key="heightClass=regular-widthClass=compact" constant="70"/>
+                                                <variation key="heightClass=regular-widthClass=regular" constant="110"/>
+                                            </constraint>
+                                        </constraints>
+                                        <state key="normal" title="Mudpool" backgroundImage="Mudpool">
+                                            <color key="titleColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                        </state>
+                                        <connections>
+                                            <action selector="soundPressed:" destination="2CV-RI-MWX" eventType="touchUpInside" id="BYl-ey-XR2"/>
+                                        </connections>
+                                    </button>
+                                </subviews>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="75" id="K1J-Jf-8j6">
+                                        <variation key="heightClass=compact-widthClass=compact" constant="61"/>
+                                        <variation key="heightClass=regular-widthClass=compact" constant="95"/>
+                                        <variation key="heightClass=regular-widthClass=regular" constant="150"/>
+                                    </constraint>
+                                </constraints>
+                                <variation key="heightClass=compact-widthClass=compact" spacing="1"/>
+                                <variation key="heightClass=compact-widthClass=regular" spacing="1"/>
+                                <variation key="heightClass=regular-widthClass=compact" spacing="10"/>
+                            </stackView>
+                            <button opaque="NO" tag="27" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="LAO-b7-Mdg">
+                                <rect key="frame" x="164" y="561.33333333333337" width="47" height="30"/>
                                 <state key="normal" title="On/Off"/>
                                 <connections>
                                     <action selector="soundPressed:" destination="2CV-RI-MWX" eventType="touchUpInside" id="5xC-ml-dN8"/>
                                 </connections>
                             </button>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Toggle" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="JLK-a1-Br4">
-                                <rect key="frame" x="181" y="551" width="54" height="21"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Toggle" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="JLK-a1-Br4">
+                                <rect key="frame" x="160.66666666666666" y="536" width="54" height="20.333333333333371"/>
                                 <fontDescription key="fontDescription" name="HelveticaNeue-Bold" family="Helvetica Neue" pointSize="17"/>
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
                         </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <constraints>
+                            <constraint firstItem="jr8-ge-xQf" firstAttribute="top" secondItem="L6R-16-Gr7" secondAttribute="bottom" constant="10" id="Fya-Oc-6zo">
+                                <variation key="heightClass=compact-widthClass=compact" constant="10"/>
+                                <variation key="heightClass=compact-widthClass=regular" constant="10"/>
+                            </constraint>
+                            <constraint firstItem="LAO-b7-Mdg" firstAttribute="centerX" secondItem="gUx-4V-2AA" secondAttribute="centerX" id="KS8-Se-Xua"/>
+                            <constraint firstItem="jr8-ge-xQf" firstAttribute="centerY" secondItem="gUx-4V-2AA" secondAttribute="centerY" id="RET-UM-hu4">
+                                <variation key="heightClass=compact-widthClass=regular" constant="-20"/>
+                            </constraint>
+                            <constraint firstItem="JLK-a1-Br4" firstAttribute="top" secondItem="jr8-ge-xQf" secondAttribute="bottom" constant="30" id="XfM-ID-q6I">
+                                <variation key="heightClass=compact-widthClass=compact" constant="5"/>
+                                <variation key="heightClass=compact-widthClass=regular" constant="10"/>
+                                <variation key="heightClass=regular-widthClass=compact" constant="15"/>
+                                <variation key="heightClass=regular-widthClass=regular" constant="40"/>
+                            </constraint>
+                            <constraint firstItem="jr8-ge-xQf" firstAttribute="centerX" secondItem="gUx-4V-2AA" secondAttribute="centerX" id="YHg-sV-88F"/>
+                            <constraint firstItem="L6R-16-Gr7" firstAttribute="centerX" secondItem="gUx-4V-2AA" secondAttribute="centerX" id="fsH-kc-Hob"/>
+                            <constraint firstItem="JLK-a1-Br4" firstAttribute="centerX" secondItem="gUx-4V-2AA" secondAttribute="centerX" id="gyQ-2R-lHR"/>
+                            <constraint firstItem="LAO-b7-Mdg" firstAttribute="top" secondItem="JLK-a1-Br4" secondAttribute="bottom" constant="15" id="jpB-pC-g74">
+                                <variation key="heightClass=compact-widthClass=compact" constant="4"/>
+                                <variation key="heightClass=compact-widthClass=regular" constant="5"/>
+                                <variation key="heightClass=regular-widthClass=compact" constant="5"/>
+                                <variation key="heightClass=regular-widthClass=regular" constant="30"/>
+                            </constraint>
+                            <constraint firstItem="L6R-16-Gr7" firstAttribute="top" secondItem="6yS-d5-pEH" secondAttribute="top" constant="10" id="nMG-tC-U5V">
+                                <variation key="heightClass=compact-widthClass=regular" constant="0.0"/>
+                            </constraint>
+                        </constraints>
                         <viewLayoutGuide key="safeArea" id="6yS-d5-pEH"/>
                     </view>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="7cg-z7-QJ0" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="5649" y="1859"/>
+            <point key="canvasLocation" x="5647.826086956522" y="1858.9285714285713"/>
         </scene>
         <!--View Controller-->
         <scene sceneID="dZa-Zn-ySr">
             <objects>
                 <viewController id="efv-eF-ix2" customClass="ViewController" customModule="Part_1___Sound_Effects_Application" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="Xjk-Qi-kag">
-                        <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="812"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Water" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="fGg-Sd-Dm8">
-                                <rect key="frame" x="184" y="197" width="46" height="39"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Water" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="fGg-Sd-Dm8">
+                                <rect key="frame" x="128.66666666666666" y="98" width="117.66666666666666" height="183"/>
+                                <fontDescription key="fontDescription" name="Palatino-Roman" family="Palatino" pointSize="45"/>
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
+                                <variation key="heightClass=compact-widthClass=compact">
+                                    <fontDescription key="fontDescription" name="Palatino-Roman" family="Palatino" pointSize="29"/>
+                                </variation>
+                                <variation key="heightClass=compact-widthClass=regular">
+                                    <fontDescription key="fontDescription" name="Palatino-Roman" family="Palatino" pointSize="38"/>
+                                </variation>
+                                <variation key="heightClass=regular-widthClass=regular">
+                                    <fontDescription key="fontDescription" name="Palatino-Roman" family="Palatino" pointSize="77"/>
+                                </variation>
                             </label>
-                            <button opaque="NO" tag="18" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="9Kq-qV-hDd">
-                                <rect key="frame" x="187" y="281" width="45" height="30"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <state key="normal" title="Waves"/>
-                                <connections>
-                                    <action selector="soundPressed:" destination="efv-eF-ix2" eventType="touchUpInside" id="wpu-hI-dRN"/>
-                                </connections>
-                            </button>
-                            <button opaque="NO" tag="19" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="9i8-aY-I1S">
-                                <rect key="frame" x="192" y="357" width="30" height="30"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <state key="normal" title="Rain"/>
-                                <connections>
-                                    <action selector="soundPressed:" destination="efv-eF-ix2" eventType="touchUpInside" id="Zmz-dS-dlq"/>
-                                </connections>
-                            </button>
-                            <button opaque="NO" tag="20" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="jwc-O9-fT3">
-                                <rect key="frame" x="176" y="433" width="62" height="30"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <state key="normal" title="Waterfall"/>
-                                <connections>
-                                    <action selector="soundPressed:" destination="efv-eF-ix2" eventType="touchUpInside" id="eKs-KY-5mj"/>
-                                </connections>
-                            </button>
-                            <button opaque="NO" tag="27" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="eVW-2j-QLJ">
-                                <rect key="frame" x="118" y="560" width="182" height="30"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" spacing="10" translatesAutoresizingMaskIntoConstraints="NO" id="Oev-Ij-PPA">
+                                <rect key="frame" x="140" y="291" width="95" height="230"/>
+                                <subviews>
+                                    <button opaque="NO" tag="18" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="9Kq-qV-hDd">
+                                        <rect key="frame" x="0.0" y="0.0" width="95" height="70"/>
+                                        <constraints>
+                                            <constraint firstAttribute="height" constant="55" id="r1S-bL-hSn">
+                                                <variation key="heightClass=compact-widthClass=compact" constant="45"/>
+                                                <variation key="heightClass=regular-widthClass=compact" constant="70"/>
+                                                <variation key="heightClass=regular-widthClass=regular" constant="110"/>
+                                            </constraint>
+                                        </constraints>
+                                        <state key="normal" title="Waves" backgroundImage="Waves">
+                                            <color key="titleColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                        </state>
+                                        <connections>
+                                            <action selector="soundPressed:" destination="efv-eF-ix2" eventType="touchUpInside" id="wpu-hI-dRN"/>
+                                        </connections>
+                                    </button>
+                                    <button opaque="NO" tag="19" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="9i8-aY-I1S">
+                                        <rect key="frame" x="0.0" y="80" width="95.000000000000227" height="70.000000000000227"/>
+                                        <constraints>
+                                            <constraint firstAttribute="height" constant="55" id="0mc-Yx-n2b">
+                                                <variation key="heightClass=compact-widthClass=compact" constant="45"/>
+                                                <variation key="heightClass=regular-widthClass=compact" constant="70"/>
+                                                <variation key="heightClass=regular-widthClass=regular" constant="110"/>
+                                            </constraint>
+                                        </constraints>
+                                        <state key="normal" title="Rain" backgroundImage="Rain">
+                                            <color key="titleColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                        </state>
+                                        <connections>
+                                            <action selector="soundPressed:" destination="efv-eF-ix2" eventType="touchUpInside" id="Zmz-dS-dlq"/>
+                                        </connections>
+                                    </button>
+                                    <button opaque="NO" tag="20" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="jwc-O9-fT3">
+                                        <rect key="frame" x="0.0" y="160" width="95" height="70.000000000000114"/>
+                                        <constraints>
+                                            <constraint firstAttribute="height" constant="55" id="BYQ-dv-qo3">
+                                                <variation key="heightClass=compact-widthClass=compact" constant="45"/>
+                                                <variation key="heightClass=regular-widthClass=compact" constant="70"/>
+                                                <variation key="heightClass=regular-widthClass=regular" constant="110"/>
+                                            </constraint>
+                                        </constraints>
+                                        <state key="normal" title="Waterfall" backgroundImage="Waterfall">
+                                            <color key="titleColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                        </state>
+                                        <connections>
+                                            <action selector="soundPressed:" destination="efv-eF-ix2" eventType="touchUpInside" id="eKs-KY-5mj"/>
+                                        </connections>
+                                    </button>
+                                </subviews>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="75" id="Dvc-7Z-iGu">
+                                        <variation key="heightClass=compact-widthClass=compact" constant="61"/>
+                                        <variation key="heightClass=regular-widthClass=compact" constant="95"/>
+                                        <variation key="heightClass=regular-widthClass=regular" constant="150"/>
+                                    </constraint>
+                                </constraints>
+                                <variation key="heightClass=compact-widthClass=compact" spacing="1"/>
+                                <variation key="heightClass=compact-widthClass=regular" spacing="1"/>
+                                <variation key="heightClass=regular-widthClass=compact" spacing="10"/>
+                            </stackView>
+                            <button opaque="NO" tag="27" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="eVW-2j-QLJ">
+                                <rect key="frame" x="164" y="561.33333333333337" width="47" height="30"/>
                                 <state key="normal" title="On/Off"/>
                                 <connections>
                                     <action selector="soundPressed:" destination="efv-eF-ix2" eventType="touchUpInside" id="dPe-1E-ky1"/>
                                 </connections>
                             </button>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Toggle" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="eBw-L7-EH6">
-                                <rect key="frame" x="181" y="521" width="54" height="21"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Toggle" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="eBw-L7-EH6">
+                                <rect key="frame" x="160.66666666666666" y="536" width="54" height="20.333333333333371"/>
                                 <fontDescription key="fontDescription" name="HelveticaNeue-Bold" family="Helvetica Neue" pointSize="17"/>
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
                         </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <constraints>
+                            <constraint firstItem="Oev-Ij-PPA" firstAttribute="centerY" secondItem="Xjk-Qi-kag" secondAttribute="centerY" id="G5m-Bh-rbT">
+                                <variation key="heightClass=compact-widthClass=regular" constant="-20"/>
+                            </constraint>
+                            <constraint firstItem="Oev-Ij-PPA" firstAttribute="centerX" secondItem="Xjk-Qi-kag" secondAttribute="centerX" id="Gbj-X4-oKM"/>
+                            <constraint firstItem="eBw-L7-EH6" firstAttribute="top" secondItem="Oev-Ij-PPA" secondAttribute="bottom" constant="30" id="Sja-DX-3ht">
+                                <variation key="heightClass=compact-widthClass=compact" constant="5"/>
+                                <variation key="heightClass=compact-widthClass=regular" constant="10"/>
+                                <variation key="heightClass=regular-widthClass=compact" constant="15"/>
+                                <variation key="heightClass=regular-widthClass=regular" constant="40"/>
+                            </constraint>
+                            <constraint firstItem="eVW-2j-QLJ" firstAttribute="centerX" secondItem="Xjk-Qi-kag" secondAttribute="centerX" id="TFh-U6-UJ3"/>
+                            <constraint firstItem="Oev-Ij-PPA" firstAttribute="top" secondItem="fGg-Sd-Dm8" secondAttribute="bottom" constant="10" id="gzp-O3-iOr">
+                                <variation key="heightClass=compact-widthClass=compact" constant="10"/>
+                                <variation key="heightClass=compact-widthClass=regular" constant="10"/>
+                            </constraint>
+                            <constraint firstItem="fGg-Sd-Dm8" firstAttribute="top" secondItem="AtA-rR-IvR" secondAttribute="top" constant="10" id="kAw-WE-qjf">
+                                <variation key="heightClass=compact-widthClass=regular" constant="0.0"/>
+                            </constraint>
+                            <constraint firstItem="eBw-L7-EH6" firstAttribute="centerX" secondItem="Xjk-Qi-kag" secondAttribute="centerX" id="pf8-06-bUW"/>
+                            <constraint firstItem="eVW-2j-QLJ" firstAttribute="top" secondItem="eBw-L7-EH6" secondAttribute="bottom" constant="15" id="w8b-iu-BvR">
+                                <variation key="heightClass=compact-widthClass=compact" constant="4"/>
+                                <variation key="heightClass=compact-widthClass=regular" constant="5"/>
+                                <variation key="heightClass=regular-widthClass=compact" constant="5"/>
+                                <variation key="heightClass=regular-widthClass=regular" constant="30"/>
+                            </constraint>
+                            <constraint firstItem="fGg-Sd-Dm8" firstAttribute="centerX" secondItem="Xjk-Qi-kag" secondAttribute="centerX" id="ygZ-2Q-Fb8"/>
+                        </constraints>
                         <viewLayoutGuide key="safeArea" id="AtA-rR-IvR"/>
                     </view>
                 </viewController>
@@ -872,7 +1452,7 @@
                     <tabBarItem key="tabBarItem" title="Nature" id="rsg-sS-Tfp"/>
                     <toolbarItems/>
                     <navigationBar key="navigationBar" contentMode="scaleToFill" insetsLayoutMarginsFromSafeArea="NO" id="xz9-8I-Jss">
-                        <rect key="frame" x="0.0" y="20" width="320" height="44"/>
+                        <rect key="frame" x="0.0" y="44" width="375" height="44"/>
                         <autoresizingMask key="autoresizingMask"/>
                     </navigationBar>
                     <nil name="viewControllers"/>
@@ -891,7 +1471,7 @@
                     <tabBarItem key="tabBarItem" title="Vehicles" id="V4L-6d-DIX"/>
                     <toolbarItems/>
                     <navigationBar key="navigationBar" contentMode="scaleToFill" insetsLayoutMarginsFromSafeArea="NO" id="eJo-RN-5TG">
-                        <rect key="frame" x="0.0" y="20" width="320" height="44"/>
+                        <rect key="frame" x="0.0" y="44" width="375" height="44"/>
                         <autoresizingMask key="autoresizingMask"/>
                     </navigationBar>
                     <nil name="viewControllers"/>
@@ -910,7 +1490,7 @@
                     <tabBarItem key="tabBarItem" title="Animals" id="lfn-PY-j3v"/>
                     <toolbarItems/>
                     <navigationBar key="navigationBar" contentMode="scaleToFill" insetsLayoutMarginsFromSafeArea="NO" id="zOG-3p-Dvq">
-                        <rect key="frame" x="0.0" y="20" width="320" height="44"/>
+                        <rect key="frame" x="0.0" y="44" width="375" height="44"/>
                         <autoresizingMask key="autoresizingMask"/>
                     </navigationBar>
                     <nil name="viewControllers"/>
@@ -924,8 +1504,32 @@
         </scene>
     </scenes>
     <resources>
+        <image name="Ambulance" width="600" height="600"/>
+        <image name="Blizzard" width="2834" height="3255"/>
+        <image name="Car" width="2560" height="1046"/>
         <image name="Dog" width="1024" height="1024"/>
+        <image name="Eagle" width="600" height="598"/>
+        <image name="Earthquake" width="985" height="792"/>
+        <image name="Firetruck" width="1919" height="1480"/>
+        <image name="Helicopter" width="256" height="256"/>
+        <image name="Hippopotamus" width="900" height="520"/>
+        <image name="Jetplane" width="608" height="451"/>
         <image name="Lion" width="160" height="160"/>
         <image name="Monkey" width="432" height="432"/>
+        <image name="Moped" width="744" height="477"/>
+        <image name="Motorcycle" width="1361" height="861"/>
+        <image name="Mudpool" width="676" height="507"/>
+        <image name="Parrot" width="360" height="330"/>
+        <image name="Police" width="256" height="256"/>
+        <image name="Rain" width="958" height="958"/>
+        <image name="Rocket" width="617" height="800"/>
+        <image name="Seagull" width="880" height="844"/>
+        <image name="Sealion" width="512" height="512"/>
+        <image name="Thunder" width="550" height="687"/>
+        <image name="Tornado" width="512" height="512"/>
+        <image name="Volcano" width="244" height="240"/>
+        <image name="Waterfall" width="800" height="499"/>
+        <image name="Waves" width="3000" height="2096"/>
+        <image name="Whale" width="3000" height="2533"/>
     </resources>
 </document>
