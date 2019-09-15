@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="14490.70" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="3WQ-Iw-fdT">
-    <device id="retina6_1" orientation="portrait">
+    <device id="retina4_0" orientation="portrait">
         <adaptation id="fullscreen"/>
     </device>
     <dependencies>
@@ -15,7 +15,7 @@
             <objects>
                 <viewController id="BYZ-38-t0r" customClass="ViewController" customModule="Part_1___Sound_Effects_Application" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="8bC-Xf-vdC">
-                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Home" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="kyA-U8-UQS">
@@ -55,7 +55,7 @@
             <objects>
                 <viewController id="PxV-b9-gJM" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="09F-qL-gE6">
-                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Animals" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="E1A-me-dol">
@@ -104,7 +104,7 @@
             <objects>
                 <viewController id="mJA-o4-dyg" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="fwy-rR-mNg">
-                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Vehicles" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Yqe-Qq-Kup">
@@ -153,7 +153,7 @@
             <objects>
                 <viewController id="gzh-gi-EOF" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="IBZ-Ld-LjW">
-                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Nature" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="g6L-Xx-9cr">
@@ -202,7 +202,7 @@
             <objects>
                 <viewController id="X86-Iu-F74" customClass="ViewController" customModule="Part_1___Sound_Effects_Application" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="W2N-va-BY0">
-                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Sky" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="XLj-bG-OUi">
@@ -265,7 +265,7 @@
             <objects>
                 <viewController id="P9v-hM-Qxa" customClass="ViewController" customModule="Part_1___Sound_Effects_Application" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="mh1-pl-IYC">
-                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Sea" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Om6-QO-s5q">
@@ -328,57 +328,137 @@
             <objects>
                 <viewController id="dDn-of-m3A" customClass="ViewController" customModule="Part_1___Sound_Effects_Application" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="lb3-fE-czz">
-                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Land" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="stj-3s-839">
-                                <rect key="frame" x="163" y="177" width="38" height="21"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                            <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" spacing="10" translatesAutoresizingMaskIntoConstraints="NO" id="g8d-Q1-4zU">
+                                <rect key="frame" x="112.5" y="169" width="95" height="230"/>
+                                <subviews>
+                                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="QwD-UP-HHc">
+                                        <rect key="frame" x="0.0" y="0.0" width="95" height="70"/>
+                                        <constraints>
+                                            <constraint firstAttribute="height" constant="55" id="aDe-0K-JTW">
+                                                <variation key="heightClass=compact-widthClass=compact" constant="45"/>
+                                                <variation key="heightClass=regular-widthClass=compact" constant="70"/>
+                                                <variation key="heightClass=regular-widthClass=regular" constant="110"/>
+                                            </constraint>
+                                        </constraints>
+                                        <state key="normal" title="Gorilla" backgroundImage="Monkey">
+                                            <color key="titleColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                        </state>
+                                        <connections>
+                                            <action selector="soundPressed:" destination="dDn-of-m3A" eventType="touchUpInside" id="DGq-9u-u2K"/>
+                                        </connections>
+                                    </button>
+                                    <button opaque="NO" tag="1" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="fYX-iZ-SYa">
+                                        <rect key="frame" x="0.0" y="80" width="95" height="70"/>
+                                        <constraints>
+                                            <constraint firstAttribute="height" constant="55" id="Jig-QB-jaK">
+                                                <variation key="heightClass=compact-widthClass=compact" constant="45"/>
+                                                <variation key="heightClass=regular-widthClass=compact" constant="70"/>
+                                                <variation key="heightClass=regular-widthClass=regular" constant="110"/>
+                                            </constraint>
+                                        </constraints>
+                                        <state key="normal" title="Dog" backgroundImage="Dog">
+                                            <color key="titleColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                        </state>
+                                        <connections>
+                                            <action selector="soundPressed:" destination="dDn-of-m3A" eventType="touchUpInside" id="UkN-7b-ZEZ"/>
+                                        </connections>
+                                    </button>
+                                    <button opaque="NO" tag="2" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="WH1-qY-6Rx">
+                                        <rect key="frame" x="0.0" y="160" width="95" height="70"/>
+                                        <constraints>
+                                            <constraint firstAttribute="height" constant="55" id="bgT-OY-IFb">
+                                                <variation key="heightClass=compact-widthClass=compact" constant="45"/>
+                                                <variation key="heightClass=regular-widthClass=compact" constant="70"/>
+                                                <variation key="heightClass=regular-widthClass=regular" constant="110"/>
+                                            </constraint>
+                                        </constraints>
+                                        <state key="normal" title="Lion" backgroundImage="Lion">
+                                            <color key="titleColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                        </state>
+                                        <connections>
+                                            <action selector="soundPressed:" destination="dDn-of-m3A" eventType="touchUpInside" id="H86-Sb-dWn"/>
+                                        </connections>
+                                    </button>
+                                </subviews>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="75" id="qrr-Sw-mAa">
+                                        <variation key="heightClass=compact-widthClass=compact" constant="61"/>
+                                        <variation key="heightClass=regular-widthClass=compact" constant="95"/>
+                                        <variation key="heightClass=regular-widthClass=regular" constant="150"/>
+                                    </constraint>
+                                </constraints>
+                                <variation key="heightClass=compact-widthClass=compact" spacing="1"/>
+                                <variation key="heightClass=compact-widthClass=regular" spacing="1"/>
+                                <variation key="heightClass=regular-widthClass=compact" spacing="10"/>
+                            </stackView>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Toggle" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="UQG-8n-J5N">
+                                <rect key="frame" x="133" y="414" width="54" height="20.5"/>
+                                <fontDescription key="fontDescription" name="HelveticaNeue-Bold" family="Helvetica Neue" pointSize="17"/>
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
+                                <variation key="heightClass=regular-widthClass=regular">
+                                    <fontDescription key="fontDescription" name="HelveticaNeue-Bold" family="Helvetica Neue" pointSize="29"/>
+                                </variation>
                             </label>
-                            <button opaque="NO" tag="1" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="fYX-iZ-SYa">
-                                <rect key="frame" x="192" y="352" width="30" height="30"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <state key="normal" title="Dog"/>
-                                <connections>
-                                    <action selector="soundPressed:" destination="dDn-of-m3A" eventType="touchUpInside" id="UkN-7b-ZEZ"/>
-                                </connections>
-                            </button>
-                            <button opaque="NO" tag="2" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="WH1-qY-6Rx">
-                                <rect key="frame" x="192" y="456" width="30" height="30"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <state key="normal" title="Lion"/>
-                                <connections>
-                                    <action selector="soundPressed:" destination="dDn-of-m3A" eventType="touchUpInside" id="H86-Sb-dWn"/>
-                                </connections>
-                            </button>
-                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="QwD-UP-HHc">
-                                <rect key="frame" x="185" y="266" width="44" height="30"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <state key="normal" title="Gorilla"/>
-                                <connections>
-                                    <action selector="soundPressed:" destination="dDn-of-m3A" eventType="touchUpInside" id="DGq-9u-u2K"/>
-                                </connections>
-                            </button>
-                            <button opaque="NO" tag="27" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="kMb-pb-jjB">
-                                <rect key="frame" x="124" y="599" width="182" height="30"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Land Animals" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="stj-3s-839">
+                                <rect key="frame" x="19" y="74" width="282" height="85"/>
+                                <fontDescription key="fontDescription" name="Palatino-Roman" family="Palatino" pointSize="45"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                                <variation key="heightClass=compact-widthClass=compact">
+                                    <fontDescription key="fontDescription" name="Palatino-Roman" family="Palatino" pointSize="29"/>
+                                </variation>
+                                <variation key="heightClass=compact-widthClass=regular">
+                                    <fontDescription key="fontDescription" name="Palatino-Roman" family="Palatino" pointSize="38"/>
+                                </variation>
+                                <variation key="heightClass=regular-widthClass=regular">
+                                    <fontDescription key="fontDescription" name="Palatino-Roman" family="Palatino" pointSize="77"/>
+                                </variation>
+                            </label>
+                            <button opaque="NO" tag="27" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="kMb-pb-jjB">
+                                <rect key="frame" x="136.5" y="439.5" width="47" height="30"/>
                                 <state key="normal" title="On/Off"/>
+                                <variation key="heightClass=regular-widthClass=regular">
+                                    <fontDescription key="fontDescription" type="system" pointSize="40"/>
+                                </variation>
                                 <connections>
                                     <action selector="soundPressed:" destination="dDn-of-m3A" eventType="touchUpInside" id="JJb-0j-MbX"/>
                                 </connections>
                             </button>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Toggle" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="UQG-8n-J5N">
-                                <rect key="frame" x="187" y="560" width="54" height="21"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <fontDescription key="fontDescription" name="HelveticaNeue-Bold" family="Helvetica Neue" pointSize="17"/>
-                                <nil key="textColor"/>
-                                <nil key="highlightedColor"/>
-                            </label>
                         </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <constraints>
+                            <constraint firstItem="UQG-8n-J5N" firstAttribute="centerX" secondItem="lb3-fE-czz" secondAttribute="centerX" id="0ap-Dh-lFr"/>
+                            <constraint firstItem="UQG-8n-J5N" firstAttribute="top" secondItem="g8d-Q1-4zU" secondAttribute="bottom" constant="30" id="4dq-A5-1eG">
+                                <variation key="heightClass=compact-widthClass=compact" constant="5"/>
+                                <variation key="heightClass=compact-widthClass=regular" constant="10"/>
+                                <variation key="heightClass=regular-widthClass=compact" constant="15"/>
+                                <variation key="heightClass=regular-widthClass=regular" constant="40"/>
+                            </constraint>
+                            <constraint firstItem="kMb-pb-jjB" firstAttribute="centerX" secondItem="lb3-fE-czz" secondAttribute="centerX" id="8ls-a4-Tko"/>
+                            <constraint firstItem="g8d-Q1-4zU" firstAttribute="centerX" secondItem="lb3-fE-czz" secondAttribute="centerX" id="Iw4-cb-Y8F"/>
+                            <constraint firstItem="g8d-Q1-4zU" firstAttribute="centerY" secondItem="lb3-fE-czz" secondAttribute="centerY" id="QYX-gl-lBC">
+                                <variation key="heightClass=compact-widthClass=regular" constant="-20"/>
+                            </constraint>
+                            <constraint firstItem="stj-3s-839" firstAttribute="centerX" secondItem="lb3-fE-czz" secondAttribute="centerX" id="WDt-C1-OZm"/>
+                            <constraint firstItem="g8d-Q1-4zU" firstAttribute="top" secondItem="stj-3s-839" secondAttribute="bottom" constant="10" id="cV0-CN-TGy">
+                                <variation key="heightClass=compact-widthClass=compact" constant="10"/>
+                                <variation key="heightClass=compact-widthClass=regular" constant="10"/>
+                            </constraint>
+                            <constraint firstItem="stj-3s-839" firstAttribute="top" secondItem="5FY-yC-Vsx" secondAttribute="top" constant="10" id="rUP-5E-wu2">
+                                <variation key="heightClass=compact-widthClass=regular" constant="0.0"/>
+                            </constraint>
+                            <constraint firstItem="UQG-8n-J5N" firstAttribute="centerX" secondItem="lb3-fE-czz" secondAttribute="centerX" id="w3F-vv-6Bl"/>
+                            <constraint firstItem="kMb-pb-jjB" firstAttribute="top" secondItem="UQG-8n-J5N" secondAttribute="bottom" constant="15" id="zCx-Pd-py6">
+                                <variation key="heightClass=compact-widthClass=compact" constant="4"/>
+                                <variation key="heightClass=compact-widthClass=regular" constant="5"/>
+                                <variation key="heightClass=regular-widthClass=compact" constant="5"/>
+                                <variation key="heightClass=regular-widthClass=regular" constant="30"/>
+                            </constraint>
+                        </constraints>
                         <viewLayoutGuide key="safeArea" id="5FY-yC-Vsx"/>
                     </view>
                 </viewController>
@@ -391,7 +471,7 @@
             <objects>
                 <viewController id="qpA-4W-dw5" customClass="ViewController" customModule="Part_1___Sound_Effects_Application" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="S1z-Tk-zgS">
-                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Cars" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="8pU-h3-NU8">
@@ -454,7 +534,7 @@
             <objects>
                 <viewController id="fzB-ib-S2u" customClass="ViewController" customModule="Part_1___Sound_Effects_Application" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="kfC-rv-D89">
-                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <button opaque="NO" tag="12" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="pbA-Re-sU3">
@@ -517,7 +597,7 @@
             <objects>
                 <viewController id="8Fc-G4-3sy" customClass="ViewController" customModule="Part_1___Sound_Effects_Application" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="IdY-xb-AyH">
-                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Aircraft" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="kJN-xM-glW">
@@ -580,7 +660,7 @@
             <objects>
                 <viewController id="xlu-Zz-nlI" customClass="ViewController" customModule="Part_1___Sound_Effects_Application" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="Dzp-wL-Mbp">
-                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Sky" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="RXD-V8-NlZ">
@@ -643,7 +723,7 @@
             <objects>
                 <viewController id="2CV-RI-MWX" customClass="ViewController" customModule="Part_1___Sound_Effects_Application" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="gUx-4V-2AA">
-                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Earth" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="L6R-16-Gr7">
@@ -706,7 +786,7 @@
             <objects>
                 <viewController id="efv-eF-ix2" customClass="ViewController" customModule="Part_1___Sound_Effects_Application" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="Xjk-Qi-kag">
-                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Water" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="fGg-Sd-Dm8">
@@ -792,7 +872,7 @@
                     <tabBarItem key="tabBarItem" title="Nature" id="rsg-sS-Tfp"/>
                     <toolbarItems/>
                     <navigationBar key="navigationBar" contentMode="scaleToFill" insetsLayoutMarginsFromSafeArea="NO" id="xz9-8I-Jss">
-                        <rect key="frame" x="0.0" y="44" width="414" height="44"/>
+                        <rect key="frame" x="0.0" y="20" width="320" height="44"/>
                         <autoresizingMask key="autoresizingMask"/>
                     </navigationBar>
                     <nil name="viewControllers"/>
@@ -811,7 +891,7 @@
                     <tabBarItem key="tabBarItem" title="Vehicles" id="V4L-6d-DIX"/>
                     <toolbarItems/>
                     <navigationBar key="navigationBar" contentMode="scaleToFill" insetsLayoutMarginsFromSafeArea="NO" id="eJo-RN-5TG">
-                        <rect key="frame" x="0.0" y="44" width="414" height="44"/>
+                        <rect key="frame" x="0.0" y="20" width="320" height="44"/>
                         <autoresizingMask key="autoresizingMask"/>
                     </navigationBar>
                     <nil name="viewControllers"/>
@@ -830,7 +910,7 @@
                     <tabBarItem key="tabBarItem" title="Animals" id="lfn-PY-j3v"/>
                     <toolbarItems/>
                     <navigationBar key="navigationBar" contentMode="scaleToFill" insetsLayoutMarginsFromSafeArea="NO" id="zOG-3p-Dvq">
-                        <rect key="frame" x="0.0" y="44" width="414" height="44"/>
+                        <rect key="frame" x="0.0" y="20" width="320" height="44"/>
                         <autoresizingMask key="autoresizingMask"/>
                     </navigationBar>
                     <nil name="viewControllers"/>
@@ -843,4 +923,9 @@
             <point key="canvasLocation" x="244.92753623188409" y="1135.0446428571429"/>
         </scene>
     </scenes>
+    <resources>
+        <image name="Dog" width="1024" height="1024"/>
+        <image name="Lion" width="160" height="160"/>
+        <image name="Monkey" width="432" height="432"/>
+    </resources>
 </document>
