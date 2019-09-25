@@ -9,7 +9,7 @@
 import UIKit
 import AVFoundation
 
-class ViewController: UIViewController { //, AVAudioPlayerDelegate
+class ViewController: UIViewController {
 
     var audioPlayer : AVAudioPlayer?
     var labelName:String = ""
@@ -20,15 +20,9 @@ class ViewController: UIViewController { //, AVAudioPlayerDelegate
         super.viewDidLoad()
         // Do any additional setup after loading the view.
         print("Loaded")
-        //Reset the toogle label to "On/Off" everytime a category is selected
-        //labelName = "On/Off"
-//        self.audioPlayer?.delegate = self
     }
     
-//    func audioPlayerDidFinishPlaying(_ player: AVAudioPlayer, successfully flag: Bool) {
-//
-//        print("The song ended")
-//    }
+
 
     //Function to pause sound when changing tabs
     override func viewWillDisappear(_ animated: Bool) {
